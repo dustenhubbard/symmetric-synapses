@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.05" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00217507" contrast="0.917" brightness="0.12" red="true" green="true" blue="true"
+ src="FHLTD.0.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4096 0,
+	4096 4096,
+	0 4096,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="x2" comment="25julKHadded this line" hidden="true" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="-9"
+ points="1.4376 2.69645,
+	6.07632 2.83896,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="x1" comment="25julKHadded this line" hidden="true" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="-9"
+ points="1.86513 7.21403,
+	6.47535 7.3993,
+	"/>
+<Contour name="x3" comment="25julKHadded this line" hidden="true" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="-13"
+ points="0.999425 1.28839,
+	5.67161 1.48682,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="y2" comment="25julKHadded this line" hidden="true" closed="false" simplified="true" border="1 1 0" fill="1 1 0" mode="-13"
+ points="1.36793 8.09671,
+	1.42222 3.58563,
+	"/>
+<Contour name="y3" comment="25julKHadded this line" hidden="true" closed="false" simplified="true" border="1 1 0" fill="1 1 0" mode="-13"
+ points="7.40919 8.33939,
+	7.50577 3.79433,
+	"/>
+<Contour name="y4" comment="25julKHadded this line" hidden="true" closed="false" simplified="true" border="1 1 0" fill="1 1 0" mode="-13"
+ points="3.22938 6.82911,
+	3.31846 2.30127,
+	"/>
+</Transform>
+
+</Section>

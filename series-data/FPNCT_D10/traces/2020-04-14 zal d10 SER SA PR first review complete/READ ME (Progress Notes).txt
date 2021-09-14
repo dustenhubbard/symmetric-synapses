@@ -1,0 +1,7 @@
+PROGRESS NOTES:
+
+2-26-20
+Previously, made a d## copy trace and cut off the spines for centroid stamps. After Team Symmetric meeting 2/25/20, decide to do automatic zlen. 
+
+Goal (Primary) = To cut off and rename all spines in FPNCT D01, D03, and D05.
+Goal (Secondary) = curate shafts (as needed)

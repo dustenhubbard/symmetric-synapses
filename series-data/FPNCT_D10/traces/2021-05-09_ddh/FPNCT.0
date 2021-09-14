@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.05" alignLocked="false">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00220626" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="FPNCT.0.jpg" />
+<Contour name="domain1" hidden="true" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4096 0,
+	4096 4096,
+	0 4096,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibrated length x1" comment="KH adding new lines to show" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="9"
+ points="1.71641 7.7377,
+	6.33083 7.68887,
+	"/>
+<Contour name="calibrated length x1" comment="KH adding new lines to show" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="9"
+ points="1.72251 4.03884,
+	6.39797 4.03274,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibrated length y2" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="1.69809 8.63495,
+	1.7042 4.03884,
+	"/>
+<Contour name="calibrated length y3" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="4.47529 8.13445,
+	4.49361 3.56275,
+	"/>
+</Transform>
+
+</Section>

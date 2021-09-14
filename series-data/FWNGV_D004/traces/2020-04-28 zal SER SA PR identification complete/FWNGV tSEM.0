@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.048514" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00199884" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="000calcrop.tif" />
+<Contour name="CalirateVertical_15" hidden="false" closed="true" simplified="false" border="0.5 0 1" fill="0.5 0 1" mode="11"
+ points="0 0,
+	26623 0,
+	26623 13311,
+	0 13311,
+	"/>
+</Transform>
+
+</Section>

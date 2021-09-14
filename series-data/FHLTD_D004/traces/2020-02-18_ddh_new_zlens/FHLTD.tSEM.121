@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="121" thickness="0.043" alignLocked="false">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00209248" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="122____z121.0.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	35235 0,
+	35235 16175,
+	0 16175,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="mito03" hidden="false" closed="false" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="13"
+ points="27.046 10.585,
+	27.1957 10.7148,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="D001" hidden="false" closed="true" simplified="false" border="1 1 1" fill="0.501961 0 1" mode="-13"
+ points="43.1576 25.4993,
+	43.1576 25.4629,
+	43.194 25.4629,
+	43.194 25.4266,
+	43.2304 25.4266,
+	43.2304 25.4629,
+	43.2668 25.4629,
+	43.2668 25.4993,
+	43.2304 25.4993,
+	43.2304 25.5357,
+	43.194 25.5357,
+	43.194 25.4993,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="D002" hidden="false" closed="true" simplified="false" border="1 1 1" fill="0 0.501961 1" mode="-13"
+ points="52.3582 13.9524,
+	52.3582 13.9144,
+	52.3962 13.9144,
+	52.3962 13.8764,
+	52.4342 13.8764,
+	52.4342 13.9144,
+	52.4722 13.9144,
+	52.4722 13.9524,
+	52.4342 13.9524,
+	52.4342 13.9904,
+	52.3962 13.9904,
+	52.3962 13.9524,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="axon04" hidden="false" closed="true" simplified="false" border="0 1 1" fill="0 1 1" mode="9"
+ points="54.8845 25.3849,
+	54.8969 25.3724,
+	54.8471 25.3226,
+	54.8595 25.3101,
+	54.9094 25.36,
+	54.9218 25.3475,
+	54.9218 25.3849,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d002_symcand02axonstamp" hidden="false" closed="true" simplified="false" border="1 0 0" fill="0 1 1" mode="9"
+ points="52.4049 14.5139,
+	52.4191 14.4998,
+	52.3625 14.4432,
+	52.3766 14.429,
+	52.4332 14.4856,
+	52.4474 14.4715,
+	52.4474 14.5139,
+	"/>
+</Transform>
+
+</Section>

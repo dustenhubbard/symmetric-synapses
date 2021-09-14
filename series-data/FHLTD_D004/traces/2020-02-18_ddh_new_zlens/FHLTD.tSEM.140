@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="140" thickness="0.043" alignLocked="false">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00209248" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="141____z140.0.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	35235 0,
+	35235 16175,
+	0 16175,
+	"/>
+</Transform>
+
+<Transform dim="1"
+ xcoef=" -0.08 1 0 0 0 0"
+ ycoef=" -0.15 0 1 0 0 0">
+<Contour name="mito04" hidden="false" closed="false" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="13"
+ points="39.1264 14.9863,
+	39.2831 14.8872,
+	"/>
+</Transform>
+
+<Transform dim="1"
+ xcoef=" 1.25 1 0 0 0 0"
+ ycoef=" 1.2 0 1 0 0 0">
+<Contour name="mito10" hidden="false" closed="false" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="13"
+ points="25.3585 13.449,
+	25.3817 13.2613,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="D001" hidden="false" closed="true" simplified="false" border="1 1 1" fill="0.501961 0 1" mode="-13"
+ points="42.8484 26.4042,
+	42.8484 26.3678,
+	42.8848 26.3678,
+	42.8848 26.3315,
+	42.9212 26.3315,
+	42.9212 26.3678,
+	42.9576 26.3678,
+	42.9576 26.4042,
+	42.9212 26.4042,
+	42.9212 26.4406,
+	42.8848 26.4406,
+	42.8848 26.4042,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="D002" hidden="false" closed="true" simplified="false" border="1 1 1" fill="0 0.501961 1" mode="-13"
+ points="52.9805 13.9096,
+	52.9805 13.8716,
+	53.0185 13.8716,
+	53.0185 13.8336,
+	53.0565 13.8336,
+	53.0565 13.8716,
+	53.0945 13.8716,
+	53.0945 13.9096,
+	53.0565 13.9096,
+	53.0565 13.9476,
+	53.0185 13.9476,
+	53.0185 13.9096,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d002_symcand02axonstamp" hidden="false" closed="true" simplified="false" border="1 0 0" fill="0 1 1" mode="9"
+ points="53.6288 15.0834,
+	53.643 15.0693,
+	53.5864 15.0127,
+	53.6005 14.9985,
+	53.6571 15.0551,
+	53.6713 15.041,
+	53.6713 15.0834,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="axon04" hidden="false" closed="true" simplified="false" border="0 1 1" fill="0 1 1" mode="9"
+ points="55.6538 25.7831,
+	55.667 25.7699,
+	55.6141 25.717,
+	55.6273 25.7038,
+	55.6803 25.7567,
+	55.6935 25.7434,
+	55.6935 25.7831,
+	"/>
+</Transform>
+
+</Section>

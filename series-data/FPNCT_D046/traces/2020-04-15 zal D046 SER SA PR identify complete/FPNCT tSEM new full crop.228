@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="228" thickness="0.052" alignLocked="true">
+<Transform dim="1"
+ xcoef=" 10.04 1 0 0 0 0"
+ ycoef=" 8.98 0 1 0 0 0">
+<Image mag="0.00201646" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="228____z227.0.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	13727 0,
+	13727 13535,
+	0 13535,
+	"/>
+</Transform>
+
+</Section>

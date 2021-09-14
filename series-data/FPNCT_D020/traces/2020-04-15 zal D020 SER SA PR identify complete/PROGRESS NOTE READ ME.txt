@@ -1,0 +1,3 @@
+2020-2-19:
+
+Renamed d020_o04 and d020_o21 to d020_o04_branched and d020_o21_branched, respectively, to match the c and cfa traces.

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="128" thickness="0.043" alignLocked="false">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00209248" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="129____z128.0.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	35235 0,
+	35235 16175,
+	0 16175,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="D001" hidden="false" closed="true" simplified="false" border="1 1 1" fill="0.501961 0 1" mode="-13"
+ points="43.1076 26.1132,
+	43.1076 26.0768,
+	43.144 26.0768,
+	43.144 26.0404,
+	43.1804 26.0404,
+	43.1804 26.0768,
+	43.2167 26.0768,
+	43.2167 26.1132,
+	43.1804 26.1132,
+	43.1804 26.1496,
+	43.144 26.1496,
+	43.144 26.1132,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="D002" hidden="false" closed="true" simplified="false" border="1 1 1" fill="0 0.501961 1" mode="-13"
+ points="52.857 14.0521,
+	52.857 14.0141,
+	52.895 14.0141,
+	52.895 13.9761,
+	52.933 13.9761,
+	52.933 14.0141,
+	52.971 14.0141,
+	52.971 14.0521,
+	52.933 14.0521,
+	52.933 14.0901,
+	52.895 14.0901,
+	52.895 14.0521,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d002_symcand02axonstamp" hidden="false" closed="true" simplified="false" border="1 0 0" fill="0 1 1" mode="9"
+ points="53.5298 14.758,
+	53.5439 14.7438,
+	53.4873 14.6872,
+	53.5015 14.6731,
+	53.5581 14.7297,
+	53.5722 14.7155,
+	53.5722 14.758,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="axon04" hidden="false" closed="true" simplified="false" border="0 1 1" fill="0 1 1" mode="9"
+ points="55.8886 25.6045,
+	55.9019 25.5913,
+	55.8489 25.5384,
+	55.8622 25.5252,
+	55.9151 25.5781,
+	55.9283 25.5648,
+	55.9283 25.6045,
+	"/>
+</Transform>
+
+</Section>

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="126" thickness="0.043" alignLocked="false">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00209248" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="127____z126.0.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	35235 0,
+	35235 16175,
+	0 16175,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="D001" hidden="false" closed="true" simplified="false" border="1 1 1" fill="0.501961 0 1" mode="-13"
+ points="43.2031 26.2087,
+	43.2031 26.1723,
+	43.2395 26.1723,
+	43.2395 26.1359,
+	43.2759 26.1359,
+	43.2759 26.1723,
+	43.3122 26.1723,
+	43.3122 26.2087,
+	43.2759 26.2087,
+	43.2759 26.2451,
+	43.2395 26.2451,
+	43.2395 26.2087,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="D002" hidden="false" closed="true" simplified="false" border="1 1 1" fill="0 0.501961 1" mode="-13"
+ points="52.5767 14.2801,
+	52.5767 14.2421,
+	52.6147 14.2421,
+	52.6147 14.2041,
+	52.6527 14.2041,
+	52.6527 14.2421,
+	52.6907 14.2421,
+	52.6907 14.2801,
+	52.6527 14.2801,
+	52.6527 14.3181,
+	52.6147 14.3181,
+	52.6147 14.2801,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d002_symcand02axonstamp" hidden="false" closed="true" simplified="false" border="1 0 0" fill="0 1 1" mode="9"
+ points="53.0416 14.9419,
+	53.0558 14.9278,
+	52.9992 14.8712,
+	53.0133 14.857,
+	53.0699 14.9136,
+	53.0841 14.8995,
+	53.0841 14.9419,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="axon04" hidden="false" closed="true" simplified="false" border="0 1 1" fill="0 1 1" mode="9"
+ points="55.548 25.4425,
+	55.5612 25.4292,
+	55.5083 25.3763,
+	55.5215 25.3631,
+	55.5744 25.416,
+	55.5877 25.4028,
+	55.5877 25.4425,
+	"/>
+</Transform>
+
+</Section>

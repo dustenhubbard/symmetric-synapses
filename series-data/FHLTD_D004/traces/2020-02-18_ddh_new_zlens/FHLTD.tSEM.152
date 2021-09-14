@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="152" thickness="0.043" alignLocked="false">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00209248" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="153____z152.0.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	35235 0,
+	35235 16175,
+	0 16175,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="D001" hidden="false" closed="true" simplified="false" border="1 1 1" fill="0.501961 0 1" mode="-13"
+ points="42.9439 27.0908,
+	42.9439 27.0545,
+	42.9803 27.0545,
+	42.9803 27.0181,
+	43.0167 27.0181,
+	43.0167 27.0545,
+	43.053 27.0545,
+	43.053 27.0908,
+	43.0167 27.0908,
+	43.0167 27.1272,
+	42.9803 27.1272,
+	42.9803 27.0908,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="D002" hidden="false" closed="true" simplified="false" border="1 1 1" fill="0 0.501961 1" mode="-13"
+ points="52.0067 14.5224,
+	52.0067 14.4844,
+	52.0447 14.4844,
+	52.0447 14.4464,
+	52.0827 14.4464,
+	52.0827 14.4844,
+	52.1207 14.4844,
+	52.1207 14.5224,
+	52.0827 14.5224,
+	52.0827 14.5604,
+	52.0447 14.5604,
+	52.0447 14.5224,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d002_symcand02axonstamp" hidden="false" closed="true" simplified="false" border="1 0 0" fill="0 1 1" mode="9"
+ points="52.3323 15.6398,
+	52.3435 15.6286,
+	52.2986 15.5837,
+	52.3098 15.5724,
+	52.3548 15.6174,
+	52.366 15.6061,
+	52.366 15.6398,
+	"/>
+</Transform>
+
+</Section>

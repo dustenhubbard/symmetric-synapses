@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.05" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00217968" contrast="1.08713" brightness="-0.315" red="true" green="true" blue="true"
+ src="FWNGV.0.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4096 0,
+	4096 4096,
+	0 4096,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibrated length x_" comment="6sep2016KH" hidden="false" closed="false" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
+ points="1.04621 6.09832,
+	5.70353 6.22153,
+	"/>
+<Contour name="calibrated length y1" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="2.45984 5.23099,
+	2.55869 0.683832,
+	"/>
+<Contour name="calibrated length y2" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="5.71763 5.33844,
+	5.82508 0.76979,
+	"/>
+<Contour name="calibrated length x_" comment="6sep2016KH" hidden="false" closed="false" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
+ points="1.1393 2.45953,
+	5.78841 2.61833,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibrated length x_" comment="6sep2016KH" hidden="false" closed="false" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
+ points="1.04621 6.09832,
+	5.70353 6.22153,
+	"/>
+<Contour name="calibrated length y1" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="2.45984 5.23099,
+	2.55869 0.683832,
+	"/>
+<Contour name="calibrated length y2" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="5.71763 5.33844,
+	5.82508 0.76979,
+	"/>
+<Contour name="calibrated length x_" comment="6sep2016KH" hidden="false" closed="false" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
+ points="1.1393 2.45953,
+	5.78841 2.61833,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibrated length x_" comment="6sep2016KH" hidden="false" closed="false" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
+ points="1.04621 6.09832,
+	5.70353 6.22153,
+	"/>
+<Contour name="calibrated length y1" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="2.45984 5.23099,
+	2.55869 0.683832,
+	"/>
+<Contour name="calibrated length y2" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="5.71763 5.33844,
+	5.82508 0.76979,
+	"/>
+<Contour name="calibrated length x_" comment="6sep2016KH" hidden="false" closed="false" simplified="true" border="0 0 1" fill="1 1 0" mode="11"
+ points="1.1393 2.45953,
+	5.78841 2.61833,
+	"/>
+</Transform>
+
+</Section>

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.052" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00201646" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="cal crop.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	9551 0,
+	9551 5063,
+	0 5063,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="calibrate_x1" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="4.05604 10.5054,
+	9.89355 10.5101,
+	"/>
+<Contour name="calibrate_y1" hidden="false" closed="false" simplified="true" border="1 1 0" fill="1 1 0.501961" mode="9"
+ points="4.03318 12.2641,
+	4.13714 6.45663,
+	"/>
+<Contour name="calibrate_x2" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="5.24728 9.93376,
+	11.089 9.96417,
+	"/>
+<Contour name="calibrate_y2" hidden="false" closed="false" simplified="true" border="1 1 0" fill="1 1 0.501961" mode="9"
+ points="5.2564 9.93376,
+	5.32938 4.14373,
+	"/>
+<Contour name="calibrate_x3" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="6.98624 8.80395,
+	12.8508 8.77115,
+	"/>
+<Contour name="calibrate_y3" hidden="false" closed="false" simplified="true" border="1 1 0" fill="1 1 0.501961" mode="9"
+ points="6.99777 9.36855,
+	7.0874 3.5786,
+	"/>
+<Contour name="calibrate_x4" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="9.90217 8.21957,
+	15.7758 8.21142,
+	"/>
+<Contour name="calibrate_y4" hidden="false" closed="false" simplified="true" border="1 1 0" fill="1 1 0.501961" mode="9"
+ points="9.90131 8.2204,
+	10.0514 2.38886,
+	"/>
+<Contour name="calibrate_x5" hidden="false" closed="false" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+ points="7.61292 5.31631,
+	13.4921 5.29672,
+	"/>
+<Contour name="calibrate_y5" hidden="false" closed="false" simplified="true" border="1 1 0" fill="1 1 0.501961" mode="9"
+ points="7.62099 5.8896,
+	7.6937 0.088776,
+	"/>
+</Transform>
+
+</Section>

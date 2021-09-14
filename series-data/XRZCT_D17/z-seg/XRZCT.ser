@@ -1,0 +1,3278 @@
+<?xml version="1.0"?>
+<!DOCTYPE Series SYSTEM "series.dtd">
+
+<Series index="150" viewport="-0.963926 5.52112 0.00120376"
+	units="microns"
+	autoSaveSeries="true"
+	autoSaveSection="true"
+	warnSaveSection="true"
+	beepDeleting="true"
+	beepPaging="true"
+	hideTraces="false"
+	unhideTraces="false"
+	hideDomains="false"
+	unhideDomains="true"
+	useAbsolutePaths="false"
+	defaultThickness="0.05"
+	zMidSection="false"
+	thumbWidth="128"
+	thumbHeight="96"
+	fitThumbSections="false"
+	firstThumbSection="1"
+	lastThumbSection="2147483647"
+	skipSections="1"
+	displayThumbContours="true"
+	useFlipbookStyle="false"
+	flipRate="5"
+	useProxies="true"
+	widthUseProxies="2048"
+	heightUseProxies="1536"
+	scaleProxies="0.25"
+	significantDigits="6"
+	defaultBorder="1.000 0.000 0.000"
+	defaultFill="1.000 0.000 0.000"
+	defaultMode="11"
+	defaultName="d17sa32"
+	defaultComment=""
+	listSectionThickness="true"
+	listDomainSource="true"
+	listDomainPixelsize="true"
+	listDomainLength="true"
+	listDomainArea="false"
+	listDomainMidpoint="false"
+	listTraceComment="true"
+	listTraceLength="true"
+	listTraceArea="true"
+	listTraceCentroid="false"
+	listTraceExtent="false"
+	listTraceZ="false"
+	listTraceThickness="false"
+	listObjectRange="true"
+	listObjectCount="true"
+	listObjectSurfarea="false"
+	listObjectFlatarea="true"
+	listObjectVolume="false"
+	listZTraceNote="false"
+	listZTraceRange="true"
+	listZTraceLength="true"
+	borderColors="0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		"
+	fillColors="0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		"
+	offset3D="0 0 0"
+	type3Dobject="1"
+	first3Dsection="1"
+	last3Dsection="204"
+	max3Dconnection="-1"
+	upper3Dfaces="true"
+	lower3Dfaces="true"
+	faceNormals="false"
+	vertexNormals="true"
+	facets3D="32"
+	dim3D="0.5 0.5 0.5"
+	gridType="0"
+	gridSize="0.25 0.1"
+	gridDistance="1 1"
+	gridNumber="1 1"
+	hueStopWhen="3"
+	hueStopValue="50"
+	satStopWhen="3"
+	satStopValue="50"
+	brightStopWhen="0"
+	brightStopValue="100"
+	tracesStopWhen="false"
+	areaStopPercent="999"
+	areaStopSize="0"
+	ContourMaskWidth="0"
+	smoothingLength="10"
+	mvmtIncrement="0.022 1 1 1.01 1.01 0.02 0.02 0.001 0.001"
+	ctrlIncrement="0.00439999 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
+	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
+	>
+<Contour name="xxxxxxx" closed="true" border="1.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="-3 1,
+	-3 -1,
+	-1 -3,
+	1 -3,
+	3 -1,
+	3 1,
+	1 3,
+	-1 3,
+	"/>
+<Contour name="d02c02" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+ points="-2 1,
+	-5 0,
+	-2 -1,
+	-4 -4,
+	-1 -2,
+	0 -5,
+	1 -2,
+	4 -4,
+	2 -1,
+	5 0,
+	2 1,
+	4 4,
+	1 2,
+	0 5,
+	-1 2,
+	-4 4,
+	"/>
+<Contour name="d17_o20" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="-6 -6,
+	6 -6,
+	0 5,
+	"/>
+<Contour name="d17_INC" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="-7 7,
+	-2 0,
+	-7 -7,
+	-4 -7,
+	0 -1,
+	4 -7,
+	7 -7,
+	2 0,
+	7 7,
+	4 7,
+	0 1,
+	-4 7,
+	"/>
+<Contour name="d17__checked_delete" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="-13"
+ points="8 8,
+	8 -8,
+	-8 -8,
+	-8 6,
+	-10 8,
+	-10 -10,
+	10 -10,
+	10 10,
+	-10 10,
+	-8 8,
+	"/>
+<Contour name="d02c06" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+ points="0 7,
+	-7 0,
+	0 -7,
+	7 0,
+	"/>
+<Contour name="d02c07" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="9"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="d17__cluster1begin" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="-15"
+ points="6 -6,
+	0 -6,
+	0 -3,
+	3 0,
+	12 3,
+	6 6,
+	3 12,
+	-3 6,
+	-6 0,
+	-6 -6,
+	-12 -6,
+	-3 -12,
+	"/>
+<Contour name="d17sa32" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="11"
+ points="-12 4,
+	-12 -4,
+	-4 -4,
+	-4 -12,
+	4 -12,
+	4 -4,
+	12 -4,
+	12 4,
+	4 4,
+	4 12,
+	-4 12,
+	-4 4,
+	"/>
+<Contour name="d17delete" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="11"
+ points="0 12,
+	4 8,
+	-12 -8,
+	-8 -12,
+	8 4,
+	12 0,
+	12 12,
+	"/>
+<Contour name="d17_cfa" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="-3 1,
+	-3 -1,
+	-1 -3,
+	1 -3,
+	3 -1,
+	3 1,
+	1 3,
+	-1 3,
+	"/>
+<Contour name="d17_c" closed="true" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="-3 1,
+	-3 -1,
+	-1 -3,
+	1 -3,
+	3 -1,
+	3 1,
+	1 3,
+	-1 3,
+	"/>
+<Contour name="d01rs04" closed="true" border="0.000 0.000 1.000" fill="0.000 1.000 0.000" mode="11"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="d17_cl25_asyn_zlen" closed="true" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="-6.77887 0.0108626,
+	-6.60256 -1.49834,
+	-6.08278 -2.92911,
+	-5.24656 -4.20706,
+	-4.13735 -5.26578,
+	-2.81281 -6.05025,
+	-1.34179 -6.51968,
+	0.199268 -6.64967,
+	1.73025 -6.43348,
+	3.17159 -5.88234,
+	4.44837 -5.02489,
+	5.49423 -3.9057,
+	6.25481 -2.58294,
+	6.69057 -1.12537,
+	6.77887 0.39126,
+	6.51512 1.88812,
+	5.91303 3.2874,
+	5.00388 4.51639,
+	3.83494 5.51119,
+	2.46697 6.22011,
+	0.971054 6.60629,
+	-0.575043 6.64967,
+	-2.09096 6.34799,
+	-3.49792 5.71693,
+	-4.72277 4.78929,
+	-5.70187 3.61329,
+	-6.38432 2.25005,
+	"/>
+<Contour name="d02cfa05" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+ points="-6.77887 0.0108626,
+	-6.60256 -1.49834,
+	-6.08278 -2.92911,
+	-5.24656 -4.20706,
+	-4.13735 -5.26578,
+	-2.81281 -6.05025,
+	-1.34179 -6.51968,
+	0.199268 -6.64967,
+	1.73025 -6.43348,
+	3.17159 -5.88234,
+	4.44837 -5.02489,
+	5.49423 -3.9057,
+	6.25481 -2.58294,
+	6.69057 -1.12537,
+	6.77887 0.39126,
+	6.51512 1.88812,
+	5.91303 3.2874,
+	5.00388 4.51639,
+	3.83494 5.51119,
+	2.46697 6.22011,
+	0.971054 6.60629,
+	-0.575043 6.64967,
+	-2.09096 6.34799,
+	-3.49792 5.71693,
+	-4.72277 4.78929,
+	-5.70187 3.61329,
+	-6.38432 2.25005,
+	"/>
+<Contour name="d02cfa06" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="d02cfa07" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="9"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="d17__cluster1end" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-15"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="d17ser34" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="-12 4,
+	-12 -4,
+	-4 -4,
+	-4 -12,
+	4 -12,
+	4 -4,
+	12 -4,
+	12 4,
+	4 4,
+	4 12,
+	-4 12,
+	-4 4,
+	"/>
+<Contour name="d17__teamsymmquestion" closed="true" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="0 12,
+	4 8,
+	-12 -8,
+	-8 -12,
+	8 4,
+	12 0,
+	12 12,
+	"/>
+<ZContour name="d01plinn01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.24384 3.3905 10,
+	3.24702 3.3905 9,
+	"/>
+<ZContour name="d01plinn02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.31684 3.48254 26,
+	3.24384 3.3905 10,
+	"/>
+<ZContour name="d01plinn03" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.43428 3.59997 38,
+	3.31684 3.48254 26,
+	"/>
+<ZContour name="d01plinn04" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.53584 3.57776 41,
+	3.43428 3.59997 38,
+	"/>
+<ZContour name="d01plinn05" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.68184 3.60315 54,
+	3.53584 3.57776 41,
+	"/>
+<ZContour name="d01plinn06" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.69771 3.5841 55,
+	3.67549 3.60315 54,
+	"/>
+<ZContour name="d01plinn07" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.75484 3.57458 58,
+	3.69136 3.5841 55,
+	"/>
+<ZContour name="d01plinn08" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.72945 3.56506 62,
+	3.75484 3.57458 58,
+	"/>
+<ZContour name="d01plinn09" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.03097 3.50793 78,
+	3.72628 3.56506 62,
+	"/>
+<ZContour name="d01plinn10" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.02462 3.48254 82,
+	4.03097 3.50793 78,
+	"/>
+<ZContour name="d01plinn11" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.04367 3.52697 85,
+	4.01828 3.48889 82,
+	"/>
+<ZContour name="d01plinn12" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.07541 3.58093 95,
+	4.04367 3.52697 85,
+	"/>
+<ZContour name="d01plinn13" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.11984 3.55871 96,
+	4.07541 3.58093 95,
+	"/>
+<ZContour name="d01plinn14" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.20554 3.56824 99,
+	4.11667 3.55871 96,
+	"/>
+<ZContour name="d01plinn15" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.28806 3.58728 108,
+	4.20554 3.56824 99,
+	"/>
+<ZContour name="d01plinn16" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.26584 3.55237 111,
+	4.28488 3.58728 108,
+	"/>
+<ZContour name="d01plinn17" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.42136 3.54919 112,
+	4.26584 3.55237 111,
+	"/>
+<ZContour name="d01plinn18" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.31662 3.47302 116,
+	4.42136 3.54919 112,
+	"/>
+<ZContour name="d01plinn19" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.45945 3.46667 118,
+	4.3198 3.46984 116,
+	"/>
+<ZContour name="d01plinn20" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.49436 3.41589 119,
+	4.46262 3.46667 118,
+	"/>
+<ZContour name="d01plinn21" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.49436 3.34606 127,
+	4.49119 3.41589 119,
+	"/>
+<ZContour name="d01plinn22" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.54832 3.38415 129,
+	4.49436 3.34606 127,
+	"/>
+<ZContour name="d01plinn23" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.59593 3.41589 131,
+	4.54832 3.38415 129,
+	"/>
+<ZContour name="d01plinn24" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.68162 3.40319 136,
+	4.59593 3.41589 131,
+	"/>
+<ZContour name="d01plinn25" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.71971 3.40319 139,
+	4.68162 3.40319 136,
+	"/>
+<ZContour name="d01plinn26" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.82445 3.38732 143,
+	4.71971 3.40319 139,
+	"/>
+<ZContour name="d01plinn27" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.82762 3.38415 146,
+	4.82762 3.38732 143,
+	"/>
+<ZContour name="d01plinn28" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.79271 3.34289 149,
+	4.82762 3.38415 146,
+	"/>
+<ZContour name="d01plinn29" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.8784 3.31115 156,
+	4.79588 3.34289 149,
+	"/>
+<ZContour name="d01plinn30" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.97362 3.27624 158,
+	4.8784 3.31115 156,
+	"/>
+<ZContour name="d01plinn31" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.08471 3.21911 160,
+	4.97362 3.27306 158,
+	"/>
+<ZContour name="d01plinn32" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.10058 3.20958 161,
+	5.08471 3.21593 160,
+	"/>
+<ZContour name="d01plinn33" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.11962 3.19054 162,
+	5.10058 3.20958 161,
+	"/>
+<ZContour name="d01plinn34" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.54492 3.13024 177,
+	5.11645 3.19054 162,
+	"/>
+<ZContour name="d01plinn35" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.56714 3.13658 180,
+	5.54492 3.13024 177,
+	"/>
+<ZContour name="d01plinn36" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.69727 3.15563 183,
+	5.56079 3.13658 180,
+	"/>
+<ZContour name="d01plinn37" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.70044 3.15245 183,
+	5.70362 3.14928 182,
+	"/>
+<ZContour name="d01plinn38" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.78296 3.15245 184,
+	5.70044 3.15563 183,
+	"/>
+<ZContour name="d01plinn39" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.02101 3.17785 191,
+	5.78296 3.15245 184,
+	"/>
+<ZContour name="d01plinn40" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.21461 3.18102 193,
+	6.02101 3.17785 191,
+	"/>
+<ZContour name="d01plinn41" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.30348 3.12072 195,
+	6.20827 3.18102 193,
+	"/>
+<ZContour name="d01plinn42" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.51614 3.06993 197,
+	6.30348 3.12072 195,
+	"/>
+<ZContour name="d01plinn43" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.5447 3.06359 198,
+	6.51614 3.06993 197,
+	"/>
+<ZContour name="d01plinn44" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.79861 2.77793 208,
+	6.5447 3.06359 198,
+	"/>
+<ZContour name="newd01plinn01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.82127 3.35876 150,
+	4.81175 3.38732 146,
+	"/>
+<ZContour name="newd01plinn02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.87523 3.3175 156,
+	4.82127 3.35876 150,
+	"/>
+<ZContour name="d02plinn01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.26608 1.95644 20,
+	7.22222 2.02222 14,
+	"/>
+<ZContour name="d02plinn02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.35744 1.78467 26,
+	7.26608 1.95644 20,
+	"/>
+<ZContour name="d02plinn03" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.41957 1.76275 31,
+	7.35744 1.78467 26,
+	"/>
+<ZContour name="d02plinn04" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.31359 1.7664 41,
+	7.41957 1.76275 31,
+	"/>
+<ZContour name="d02plinn05" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.4013 1.80295 45,
+	7.31359 1.7664 41,
+	"/>
+<ZContour name="d02plinn06" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.38303 1.7664 49,
+	7.4013 1.7664 47,
+	"/>
+<ZContour name="d02plinn07" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.35744 1.75178 56,
+	7.38303 1.7664 49,
+	"/>
+<ZContour name="d02plinn08" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.29166 1.86873 61,
+	7.3611 1.75178 56,
+	"/>
+<ZContour name="d02plinn09" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.25512 1.86873 62,
+	7.29166 1.86873 61,
+	"/>
+<ZContour name="d02plinn10" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.25146 1.86873 63,
+	7.25512 1.86873 62,
+	"/>
+<ZContour name="d02plinn11" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.23319 1.88335 67,
+	7.25146 1.86873 63,
+	"/>
+<ZContour name="d02plinn12" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.26242 1.9674 70,
+	7.23319 1.88335 67,
+	"/>
+<ZContour name="d02plinn13" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.31724 1.90893 78,
+	7.26242 1.9674 70,
+	"/>
+<ZContour name="d02plinn14" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.18933 1.97471 80,
+	7.31724 1.90893 78,
+	"/>
+<ZContour name="d02plinn15" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.11624 2.01857 82,
+	7.18933 1.97471 80,
+	"/>
+<ZContour name="d02plinn16" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.11624 2.01857 85,
+	7.11624 2.01857 82,
+	"/>
+<ZContour name="d02plinn17" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.11624 2.01857 87,
+	7.11624 2.01857 85,
+	"/>
+<ZContour name="d02plinn18" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.11624 2.01857 94,
+	7.11624 2.01857 87,
+	"/>
+<ZContour name="d02plinn19" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.11624 2.03319 95,
+	7.11624 2.01857 94,
+	"/>
+<ZContour name="d02plinn20" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.05777 2.04049 100,
+	7.11624 2.03319 95,
+	"/>
+<ZContour name="d02plinn21" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.05777 2.04049 102,
+	7.05777 2.04049 100,
+	"/>
+<ZContour name="d02plinn22" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.05777 2.04049 103,
+	7.05777 2.04049 102,
+	"/>
+<ZContour name="d02plinn23" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.05777 2.0478 105,
+	7.05777 2.04049 103,
+	"/>
+<ZContour name="d02plinn24" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.05777 2.06973 108,
+	7.05777 2.0478 105,
+	"/>
+<ZContour name="d02plinn25" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.82388 2.07704 112,
+	7.05777 2.06973 108,
+	"/>
+<ZContour name="d02plinn26" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.54613 2.09166 120,
+	6.82388 2.07704 112,
+	"/>
+<ZContour name="d02plinn27" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.39995 2.09166 122,
+	6.54613 2.09166 120,
+	"/>
+<ZContour name="d02plinn28" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.39995 2.09897 123,
+	6.39995 2.09166 122,
+	"/>
+<ZContour name="d02plinn29" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.46573 2.21226 131,
+	6.39995 2.09897 123,
+	"/>
+<ZContour name="d02plinn30" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.46573 2.21226 134,
+	6.46573 2.21226 131,
+	"/>
+<ZContour name="d02plinn31" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.37436 2.32555 144,
+	6.46573 2.21226 134,
+	"/>
+<ZContour name="d02plinn32" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.30127 2.34017 151,
+	6.37436 2.32555 144,
+	"/>
+<ZContour name="d02plinn33" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.30127 2.34017 153,
+	6.30127 2.34017 151,
+	"/>
+<ZContour name="d02plinn34" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.14778 2.30728 156,
+	6.30127 2.34017 153,
+	"/>
+<ZContour name="d02plinn35" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.17336 2.32555 158,
+	6.14778 2.30728 156,
+	"/>
+<ZContour name="d02plinn36" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.2428 2.35479 160,
+	6.17336 2.32555 158,
+	"/>
+<ZContour name="d02plinn37" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.38533 2.32555 166,
+	6.2428 2.35479 160,
+	"/>
+<ZContour name="d02plinn38" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.22818 2.36575 176,
+	6.38533 2.32555 166,
+	"/>
+<ZContour name="d02plinn39" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.33782 2.4023 181,
+	6.22818 2.36575 176,
+	"/>
+<ZContour name="d02plinn40" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.30493 2.55579 196,
+	6.33782 2.4023 181,
+	"/>
+<ZContour name="d02plinn41" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.3232 2.57772 204,
+	6.30493 2.55579 196,
+	"/>
+<ZContour name="d04plinn01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.47298 5.57494 8,
+	3.48503 5.63519 3,
+	"/>
+<ZContour name="d04plinn02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.49708 5.55084 10,
+	3.47298 5.57494 8,
+	"/>
+<ZContour name="d04plinn03" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.43282 5.34601 18,
+	3.49708 5.55084 10,
+	"/>
+<ZContour name="d04plinn04" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.43282 5.33798 19,
+	3.43282 5.34601 18,
+	"/>
+<ZContour name="d04plinn05" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.40069 5.34601 22,
+	3.43282 5.33798 19,
+	"/>
+<ZContour name="d04plinn06" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.38864 5.36208 29,
+	3.39667 5.34601 22,
+	"/>
+<ZContour name="d04plinn07" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.38864 5.36609 30,
+	3.38061 5.36208 29,
+	"/>
+<ZContour name="d04plinn08" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.39265 5.36609 31,
+	3.38864 5.36609 30,
+	"/>
+<ZContour name="d04plinn09" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.33643 5.33798 34,
+	3.39265 5.36609 31,
+	"/>
+<ZContour name="d04plinn10" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.21192 5.18134 43,
+	3.34044 5.33798 34,
+	"/>
+<ZContour name="d04plinn11" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="3.15569 5.08897 46,
+	3.21192 5.18134 43,
+	"/>
+<ZContour name="d04plinn12" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="2.92676 4.73553 60,
+	3.15569 5.08897 46,
+	"/>
+<ZContour name="d04plinn13" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="2.85447 4.52669 67,
+	2.92676 4.73553 60,
+	"/>
+<ZContour name="d04plinn14" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="2.80627 4.44636 69,
+	2.85045 4.52669 67,
+	"/>
+<ZContour name="d04plinn15" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="2.79824 4.43431 70,
+	2.80627 4.44636 69,
+	"/>
+<ZContour name="d04plinn16" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="2.57333 4.16923 77,
+	2.79422 4.43431 70,
+	"/>
+<ZContour name="d04plinn17" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="2.39259 3.90416 89,
+	2.57333 4.16923 77,
+	"/>
+<ZContour name="d04plinn18" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="2.37653 3.87203 91,
+	2.39259 3.90416 89,
+	"/>
+<ZContour name="d04plinn19" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="2.36046 3.88408 94,
+	2.37653 3.87203 91,
+	"/>
+<ZContour name="d04plinn20" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="2.2962 3.81981 100,
+	2.36046 3.88809 94,
+	"/>
+<ZContour name="d04plinn21" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="2.26005 3.82785 105,
+	2.2962 3.81981 100,
+	"/>
+<ZContour name="d04plinn22" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.96285 3.7917 119,
+	2.26005 3.82785 105,
+	"/>
+<ZContour name="d04plinn23" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.93072 3.82785 124,
+	1.96285 3.7917 119,
+	"/>
+<ZContour name="d04plinn24" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.7299 3.79973 134,
+	1.93072 3.82785 124,
+	"/>
+<ZContour name="d04plinn25" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.64556 3.82785 136,
+	1.7299 3.79973 134,
+	"/>
+<ZContour name="d04plinn26" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.68572 3.7435 142,
+	1.64556 3.82785 136,
+	"/>
+<ZContour name="d04plinn27" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.64556 3.70334 145,
+	1.68572 3.7435 142,
+	"/>
+<ZContour name="d04plinn28" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.47286 3.49449 161,
+	1.63351 3.70334 145,
+	"/>
+<ZContour name="d04plinn29" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.48892 3.4463 162,
+	1.46884 3.50253 161,
+	"/>
+<ZContour name="d04plinn30" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.49696 3.43827 163,
+	1.47687 3.4463 162,
+	"/>
+<ZContour name="d04plinn31" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.50499 3.41417 168,
+	1.48491 3.43827 163,
+	"/>
+<ZContour name="d04plinn32" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.54515 3.37802 172,
+	1.48892 3.41417 168,
+	"/>
+<ZContour name="d04plinn33" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.54917 3.36597 173,
+	1.54515 3.374 172,
+	"/>
+<ZContour name="d04plinn34" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.56122 3.26556 178,
+	1.54515 3.36597 173,
+	"/>
+<ZContour name="d04plinn35" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.45278 3.2495 181,
+	1.56122 3.26556 178,
+	"/>
+<ZContour name="d04plinn36" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.52507 3.31778 188,
+	1.45278 3.2495 181,
+	"/>
+<ZContour name="d04plinn37" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.51704 3.36597 190,
+	1.52507 3.31778 188,
+	"/>
+<ZContour name="d04plinn38" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.55318 3.41015 193,
+	1.509 3.36597 190,
+	"/>
+<ZContour name="d04plinn39" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.62548 3.36196 199,
+	1.55318 3.40613 193,
+	"/>
+<ZContour name="d04plinn40" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="1.60941 3.35794 200,
+	1.62146 3.36196 199,
+	"/>
+<ZContour name="d08plinn01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.73654 7.55575 35,
+	6.65032 7.7696 22,
+	"/>
+<ZContour name="d08plinn02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.66411 7.46263 40,
+	6.73654 7.55575 35,
+	"/>
+<ZContour name="d08plinn03" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.66411 7.46263 41,
+	6.66411 7.46263 40,
+	"/>
+<ZContour name="d08plinn04" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.80553 7.36605 48,
+	6.66411 7.46263 41,
+	"/>
+<ZContour name="d08plinn05" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.78138 7.21084 57,
+	6.80553 7.36605 48,
+	"/>
+<ZContour name="d08plinn06" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.909 6.85558 68,
+	6.77793 7.21084 57,
+	"/>
+<ZContour name="d08plinn07" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.909 6.76246 71,
+	6.909 6.85558 68,
+	"/>
+<ZContour name="d08plinn08" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.99523 6.59345 74,
+	6.909 6.76246 71,
+	"/>
+<ZContour name="d08plinn09" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.8883 6.63829 83,
+	6.99523 6.59345 74,
+	"/>
+<ZContour name="d08plinn10" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.62617 6.32097 101,
+	6.8883 6.63829 83,
+	"/>
+<ZContour name="d08plinn11" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.56064 6.28648 103,
+	6.62617 6.32097 101,
+	"/>
+<ZContour name="d08plinn12" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.53305 6.17611 108,
+	6.56409 6.28648 103,
+	"/>
+<ZContour name="d08plinn13" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.54339 6.13472 111,
+	6.53649 6.17611 108,
+	"/>
+<ZContour name="d08plinn14" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.40888 5.92432 119,
+	6.54339 6.13472 111,
+	"/>
+<ZContour name="d08plinn15" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.41578 5.77946 124,
+	6.40888 5.92432 119,
+	"/>
+<ZContour name="d08plinn16" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.39163 5.73462 127,
+	6.41578 5.77946 124,
+	"/>
+<ZContour name="d08plinn17" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.37784 5.73462 130,
+	6.39163 5.73462 127,
+	"/>
+<ZContour name="d08plinn18" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.28126 5.68978 132,
+	6.37784 5.73462 130,
+	"/>
+<ZContour name="d08plinn19" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.25367 5.71393 138,
+	6.28471 5.69323 132,
+	"/>
+<ZContour name="d08plinn20" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.18469 5.66909 139,
+	6.25022 5.71393 138,
+	"/>
+<ZContour name="d08plinn21" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.06052 5.60356 142,
+	6.19848 5.66909 139,
+	"/>
+<ZContour name="d08plinn22" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.01223 5.58976 144,
+	6.05707 5.60356 142,
+	"/>
+<ZContour name="d08plinn23" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.77769 5.48629 154,
+	6.01568 5.58976 144,
+	"/>
+<ZContour name="d08plinn24" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.59834 5.41386 159,
+	5.77769 5.48629 154,
+	"/>
+<ZContour name="d08plinn25" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.61213 5.36212 161,
+	5.59489 5.41041 159,
+	"/>
+<ZContour name="d08plinn26" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.51901 5.29659 165,
+	5.60179 5.36212 161,
+	"/>
+<ZContour name="d08plinn27" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.41898 5.32418 170,
+	5.51211 5.29659 165,
+	"/>
+<ZContour name="d08plinn28" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.26377 5.25864 175,
+	5.41898 5.32418 170,
+	"/>
+<ZContour name="d08plinn29" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.27067 5.23795 177,
+	5.26377 5.25864 175,
+	"/>
+<ZContour name="d08plinn30" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.06372 5.11033 187,
+	5.27067 5.23795 177,
+	"/>
+<ZContour name="d08plinn31" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.92921 5.09654 193,
+	5.06717 5.11033 187,
+	"/>
+<ZContour name="d08plinn32" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.9568 5.08619 195,
+	4.93266 5.09654 193,
+	"/>
+<ZContour name="d08plinn33" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.94645 4.89304 207,
+	4.9568 5.08619 195,
+	"/>
+<ZContour name="d10plinn01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.17456 4.42474 12,
+	6.16786 4.55873 5,
+	"/>
+<ZContour name="d10plinn02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.17456 4.42474 14,
+	6.17456 4.42474 12,
+	"/>
+<ZContour name="d10plinn03" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.26835 4.23716 21,
+	6.17456 4.42474 14,
+	"/>
+<ZContour name="d10plinn04" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.29515 4.20366 25,
+	6.26835 4.23716 21,
+	"/>
+<ZContour name="d10plinn05" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.50953 3.99598 30,
+	6.29515 4.20366 25,
+	"/>
+<ZContour name="d10plinn06" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.62342 3.94239 33,
+	6.50953 3.99598 30,
+	"/>
+<ZContour name="d10plinn07" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.64352 3.7548 38,
+	6.62342 3.94239 33,
+	"/>
+<ZContour name="d10plinn08" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.90479 3.46673 47,
+	6.64352 3.7548 38,
+	"/>
+<ZContour name="d10plinn09" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.02538 3.37294 51,
+	6.90479 3.46673 47,
+	"/>
+<ZContour name="d10plinn10" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.07228 3.34614 52,
+	7.02538 3.37294 51,
+	"/>
+<ZContour name="d10plinn11" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.34695 2.82359 67,
+	7.07228 3.34614 52,
+	"/>
+<ZContour name="d10plinn12" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.36035 2.82359 68,
+	7.34695 2.82359 67,
+	"/>
+<ZContour name="d10plinn13" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.52783 2.79679 72,
+	7.36035 2.82359 68,
+	"/>
+<ZContour name="d10plinn14" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.60153 2.7901 73,
+	7.52783 2.79679 72,
+	"/>
+<ZContour name="d10plinn15" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.60153 2.7901 77,
+	7.60153 2.7901 73,
+	"/>
+<ZContour name="d10plinn16" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.60153 2.7901 80,
+	7.60153 2.7901 77,
+	"/>
+<ZContour name="d10plinn17" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.79581 2.7432 85,
+	7.60153 2.7901 80,
+	"/>
+<ZContour name="d10plinn18" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.8829 2.7097 89,
+	7.79581 2.7432 85,
+	"/>
+<ZContour name="d10plinn19" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.96329 2.68291 92,
+	7.8829 2.7097 89,
+	"/>
+<ZContour name="d10plinn20" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="8.07718 2.58241 98,
+	7.96329 2.68291 92,
+	"/>
+<ZContour name="d10plinn21" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="8.10398 2.43503 104,
+	8.07718 2.58241 98,
+	"/>
+<ZContour name="d10plinn22" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.8494 2.30104 111,
+	8.10398 2.43503 104,
+	"/>
+<ZContour name="d10plinn23" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.72211 2.20055 115,
+	7.8494 2.30104 111,
+	"/>
+<ZContour name="d10plinn24" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.56803 2.05986 123,
+	7.72211 2.20055 115,
+	"/>
+<ZContour name="d10plinn25" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.32685 1.79859 133,
+	7.56803 2.05986 123,
+	"/>
+<ZContour name="d10plinn26" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.19286 1.77179 137,
+	7.32685 1.79859 133,
+	"/>
+<ZContour name="d10plinn27" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.15267 1.7182 141,
+	7.19286 1.77179 137,
+	"/>
+<ZContour name="d10plinn28" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.7976 1.40333 153,
+	7.15267 1.7182 141,
+	"/>
+<ZContour name="d10plinn29" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.75741 1.36983 159,
+	6.7976 1.40333 153,
+	"/>
+<ZContour name="d10plinn30" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.66361 1.22244 166,
+	6.75741 1.36983 159,
+	"/>
+<ZContour name="d10plinn31" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.66361 1.22244 168,
+	6.66361 1.22244 166,
+	"/>
+<ZContour name="d10plinn32" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.67031 1.10186 175,
+	6.66361 1.22244 168,
+	"/>
+<ZContour name="d10plinn33" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.8043 1.00137 181,
+	6.67031 1.10186 175,
+	"/>
+<ZContour name="d10plinn34" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.15267 0.713293 196,
+	6.8043 1.00137 181,
+	"/>
+<ZContour name="d10plinn35" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.21296 0.666397 198,
+	7.15267 0.713293 196,
+	"/>
+<ZContour name="d10plinn36" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="7.27326 0.552508 205,
+	7.21296 0.666397 198,
+	"/>
+<ZContour name="d05plinn01" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.23196 7.79573 18,
+	4.15393 8.27168 10,
+	"/>
+<ZContour name="d05plinn02" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.23196 7.7021 21,
+	4.23196 7.79573 18,
+	"/>
+<ZContour name="d05plinn03" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.26317 7.21054 35,
+	4.23196 7.7021 21,
+	"/>
+<ZContour name="d05plinn04" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.28657 7.1013 39,
+	4.26317 7.21054 35,
+	"/>
+<ZContour name="d05plinn05" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.28657 7.1013 40,
+	4.28657 7.1013 39,
+	"/>
+<ZContour name="d05plinn06" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.24756 6.99987 42,
+	4.28657 7.1013 40,
+	"/>
+<ZContour name="d05plinn07" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.20855 6.68777 52,
+	4.24756 6.99987 42,
+	"/>
+<ZContour name="d05plinn08" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.20855 6.68777 53,
+	4.20855 6.68777 52,
+	"/>
+<ZContour name="d05plinn09" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.20855 6.68777 54,
+	4.20855 6.68777 53,
+	"/>
+<ZContour name="d05plinn10" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.26317 6.36787 59,
+	4.20855 6.68777 54,
+	"/>
+<ZContour name="d05plinn11" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.13833 6.10258 67,
+	4.26317 6.36787 59,
+	"/>
+<ZContour name="d05plinn12" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.32559 5.68124 79,
+	4.13833 6.10258 67,
+	"/>
+<ZContour name="d05plinn13" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.59087 5.59542 85,
+	4.32559 5.68124 79,
+	"/>
+<ZContour name="d05plinn14" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.70011 5.52519 88,
+	4.59087 5.59542 85,
+	"/>
+<ZContour name="d05plinn15" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.84836 5.45497 92,
+	4.70011 5.52519 88,
+	"/>
+<ZContour name="d05plinn16" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.96539 5.35354 95,
+	4.84836 5.45497 92,
+	"/>
+<ZContour name="d05plinn17" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.13705 5.20529 97,
+	4.96539 5.35354 95,
+	"/>
+<ZContour name="d05plinn18" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.37893 4.99462 103,
+	5.13705 5.20529 97,
+	"/>
+<ZContour name="d05plinn19" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.5974 4.90099 106,
+	5.37893 4.99462 103,
+	"/>
+<ZContour name="d05plinn20" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.97972 4.44064 117,
+	5.5974 4.90099 106,
+	"/>
+<ZContour name="d05plinn21" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.05775 4.41724 120,
+	5.97972 4.44064 117,
+	"/>
+<ZContour name="d05plinn22" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.00313 4.22998 129,
+	6.05775 4.41724 120,
+	"/>
+<ZContour name="d05plinn23" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="6.00313 4.17536 132,
+	6.00313 4.22998 129,
+	"/>
+<ZContour name="d05plinn24" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.76125 4.14415 142,
+	6.00313 4.17536 132,
+	"/>
+<ZContour name="d05plinn25" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.76125 4.14415 145,
+	5.76125 4.14415 142,
+	"/>
+<ZContour name="d05plinn26" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.65201 4.14415 150,
+	5.76125 4.14415 145,
+	"/>
+<ZContour name="d05plinn27" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.65201 4.14415 151,
+	5.65201 4.14415 150,
+	"/>
+<ZContour name="d05plinn28" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.63641 3.83985 163,
+	5.65201 4.14415 151,
+	"/>
+<ZContour name="d05plinn29" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.57399 3.76183 167,
+	5.63641 3.83985 163,
+	"/>
+<ZContour name="d05plinn30" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.49596 3.76183 169,
+	5.57399 3.76183 167,
+	"/>
+<ZContour name="d05plinn31" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.23068 3.51995 181,
+	5.49596 3.76183 169,
+	"/>
+<ZContour name="d05plinn32" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.94979 3.23125 191,
+	5.23068 3.51995 181,
+	"/>
+<ZContour name="d05plinn33" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="4.96539 2.88794 203,
+	4.94979 3.23125 191,
+	"/>
+<ZContour name="d05plinn34" closed="false" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="-13"
+ points="5.03562 2.78651 206,
+	4.96539 2.88794 203,
+	"/>
+<ZContour name="d11DenLengthZ1" closed="false" border="1.000 0.500 0.000" fill="1.000 0.500 0.000" mode="-11"
+ points="5.29839 3.9882 208,
+	5.29839 3.9882 207,
+	5.29839 3.9882 206,
+	5.29378 3.99281 205,
+	5.22452 3.94664 204,
+	5.01212 4.05284 203,
+	4.93824 4.0436 197,
+	4.83665 4.08054 196,
+	4.76278 4.19136 195,
+	4.69352 4.22368 192,
+	4.67043 4.21445 191,
+	4.59655 4.21445 189,
+	4.59193 4.0159 188,
+	4.52267 4.2006 185,
+	4.34721 4.26524 184,
+	4.28257 4.28371 179,
+	4.28718 4.28371 177,
+	4.25948 4.27909 174,
+	4.28257 4.37144 173,
+	4.08864 4.37144 172,
+	4.08402 4.40838 171,
+	3.99167 4.42685 170,
+	3.99167 4.42685 167,
+	3.98705 4.45455 165,
+	4.01476 4.39914 162,
+	4.13943 4.50073 161,
+	4.13481 4.50073 159,
+	4.09325 4.50073 158,
+	3.77927 4.59769 157,
+	3.71001 4.61154 154,
+	3.71001 4.63925 153,
+	3.64998 4.73621 151,
+	3.64537 4.73621 150,
+	3.63151 4.73621 149,
+	3.63151 4.7316 147,
+	3.59457 4.72236 146,
+	3.41911 4.79624 142,
+	3.46067 4.69927 141,
+	3.38217 4.69927 140,
+	3.3083 4.81471 139,
+	3.30368 4.76854 137,
+	3.30368 4.76854 136,
+	3.26212 4.76854 135,
+	3.26212 4.75468 133,
+	3.3083 4.76392 132,
+	3.32677 4.74545 131,
+	3.22518 4.80547 129,
+	3.24827 4.75468 128,
+	3.12822 4.85165 125,
+	3.05434 4.86088 124,
+	3.04049 4.87474 122,
+	2.9897 4.83318 121,
+	2.95276 4.82856 119,
+	2.92043 4.75468 118,
+	2.9897 4.7593 111,
+	2.79576 4.87012 110,
+	2.73574 4.87012 109,
+	2.67571 4.78239 105,
+	2.6203 4.84241 104,
+	2.4864 4.84703 99,
+	2.41714 4.85627 96,
+	2.25553 4.92091 93,
+	2.31094 4.95323 90,
+	2.07545 4.9717 87,
+	1.96925 4.91168 84,
+	1.77532 5.02249 81,
+	1.70144 5.17025 80,
+	1.68759 5.13331 77,
+	1.48904 5.20719 74,
+	1.37822 5.24413 69,
+	1.36899 5.25798 68,
+	"/>
+<ZContour name="d11DenLengthZ2" closed="false" border="1.000 0.500 0.000" fill="1.000 0.500 0.000" mode="-11"
+ points="5.17373 3.87276 208,
+	5.31686 3.9374 207,
+	5.29378 3.96511 206,
+	5.26146 3.97434 205,
+	5.10446 4.05284 204,
+	5.10446 4.05284 202,
+	5.10446 4.0436 200,
+	5.08138 4.02513 199,
+	4.91977 4.11748 198,
+	4.84127 4.13595 197,
+	4.84127 4.13595 196,
+	4.78125 4.17751 194,
+	4.63349 4.22368 193,
+	4.63349 4.22368 192,
+	4.62425 4.20983 191,
+	4.61502 4.08054 188,
+	4.61502 4.13133 187,
+	4.46726 4.25139 186,
+	4.46726 4.25139 184,
+	4.46265 4.23753 183,
+	4.01938 4.2006 182,
+	4.10711 4.24215 179,
+	4.24563 4.35759 178,
+	4.16713 4.3622 174,
+	4.07017 4.36682 173,
+	4.02399 4.37144 168,
+	3.95011 4.45455 167,
+	3.867 4.50073 166,
+	3.81621 4.50073 161,
+	3.79774 4.48687 160,
+	3.72848 4.56537 157,
+	3.72848 4.56537 157,
+	3.72848 4.56537 155,
+	3.5761 4.76392 154,
+	3.5761 4.7593 153,
+	3.5761 4.7593 152,
+	3.5761 4.7593 151,
+	3.5761 4.7593 150,
+	3.58072 4.7593 148,
+	3.58996 4.72236 147,
+	3.58072 4.66695 145,
+	3.45605 4.75007 144,
+	3.45605 4.7593 142,
+	3.49761 4.74545 140,
+	3.3083 4.81471 139,
+	3.31291 4.74083 134,
+	3.31291 4.74545 132,
+	3.15592 4.7593 131,
+	3.13745 4.81009 128,
+	3.13745 4.81009 127,
+	3.0174 4.8655 125,
+	2.95737 4.8655 125,
+	2.95737 4.87474 121,
+	2.8835 4.88397 120,
+	2.82809 4.87474 119,
+	2.83732 4.84703 116,
+	2.85117 4.82394 115,
+	2.9112 4.81471 114,
+	2.89273 4.76854 113,
+	2.77268 4.75007 111,
+	2.68495 4.89321 110,
+	2.66186 4.90706 109,
+	2.59722 4.92553 108,
+	2.50487 4.93938 105,
+	2.44484 4.93938 103,
+	2.45408 4.93476 101,
+	2.57413 4.85627 100,
+	2.53257 4.84241 97,
+	2.42176 4.86088 96,
+	2.35711 4.86088 93,
+	2.1678 4.944 91,
+	2.1678 4.944 90,
+	2.08469 4.93938 87,
+	2.03389 4.93938 85,
+	1.8492 5.03173 83,
+	1.70606 5.09637 82,
+	1.57677 5.10561 79,
+	1.47519 5.17487 77,
+	1.46134 5.15178 76,
+	1.46134 5.15178 75,
+	1.37822 5.23489 74,
+	1.37822 5.23489 73,
+	1.37822 5.23489 72,
+	1.37822 5.23489 71,
+	1.37822 5.23489 69,
+	1.3459 5.25798 68,
+	"/>
+<ZContour name="d11DenLengthZ3" closed="false" border="1.000 0.500 0.000" fill="1.000 0.500 0.000" mode="-11"
+ points="5.23375 3.90508 208,
+	5.35842 3.95587 207,
+	5.34919 3.95587 205,
+	5.21528 4.03899 204,
+	5.13679 4.08978 204,
+	5.13679 4.08978 202,
+	5.13679 4.08516 201,
+	5.06752 4.06669 200,
+	5.03982 4.06669 199,
+	5.03982 4.06669 198,
+	4.92439 4.07131 197,
+	4.85051 4.14057 196,
+	4.75816 4.2283 193,
+	4.76278 4.2006 192,
+	4.72122 4.16366 191,
+	4.64272 4.15904 190,
+	4.56885 4.05746 189,
+	4.51805 4.09901 187,
+	4.49497 4.19598 185,
+	4.36568 4.19598 184,
+	4.35183 4.18213 182,
+	4.32412 4.2283 180,
+	4.36106 4.27447 177,
+	4.34259 4.30218 175,
+	4.25948 4.30218 175,
+	4.17637 4.38529 172,
+	4.09325 4.44994 171,
+	4.08402 4.50534 168,
+	4.00091 4.50996 166,
+	3.90856 4.53305 163,
+	3.80697 4.53305 160,
+	3.66384 4.53305 158,
+	3.61766 4.63463 157,
+	3.61766 4.63463 155,
+	3.58072 4.73621 152,
+	3.58072 4.73621 149,
+	3.46529 4.73621 146,
+	3.40526 4.74083 143,
+	3.40526 4.74083 141,
+	3.37756 4.74083 139,
+	3.3637 4.71774 137,
+	3.35447 4.71774 133,
+	3.27136 4.78701 132,
+	3.22518 4.78701 130,
+	3.15592 4.78701 129,
+	3.09128 4.78701 127,
+	3.0451 4.84241 125,
+	3.01278 4.80547 123,
+	3.01278 4.80547 122,
+	3.01278 4.80547 119,
+	2.92967 4.79162 118,
+	2.92967 4.79162 116,
+	2.86503 4.79162 114,
+	2.74959 4.81471 113,
+	2.68495 4.87012 111,
+	2.64801 4.89321 110,
+	2.60183 4.89321 108,
+	2.58336 4.89321 106,
+	2.57875 4.90706 105,
+	2.47716 4.8378 103,
+	2.47255 4.82856 101,
+	2.39405 4.90244 99,
+	2.39405 4.90244 99,
+	2.28323 4.92091 96,
+	2.28323 4.92091 95,
+	2.28323 4.92091 93,
+	2.15395 5.00402 92,
+	2.15395 5.00402 91,
+	2.15395 5.00402 90,
+	2.15395 5.00402 89,
+	2.09854 5.00402 88,
+	2.0893 4.99941 87,
+	2.02004 5.00864 86,
+	1.9831 5.00864 85,
+	1.96925 5.01788 84,
+	1.84458 5.02249 83,
+	1.79841 5.02249 82,
+	1.71068 5.03173 81,
+	1.6645 5.03173 81,
+	1.65065 5.03173 79,
+	1.53521 5.16563 78,
+	1.51674 5.14255 77,
+	1.54445 5.12869 75,
+	1.4244 5.20257 74,
+	1.38746 5.20719 72,
+	1.38746 5.21181 71,
+	1.38284 5.21642 70,
+	1.3459 5.2626 68,
+	"/>
+<ZContour name="d13denzlength01" closed="false" border="0.500 0.000 1.000" fill="0.500 0.000 1.000" mode="11"
+ points="3.58865 1.78736 200,
+	3.57953 1.85123 199,
+	3.57953 1.85123 198,
+	3.57953 1.85123 197,
+	3.52023 1.88772 196,
+	3.52023 1.88772 195,
+	3.52023 1.88772 195,
+	3.52023 1.88772 194,
+	3.52935 1.86491 193,
+	3.52023 1.80105 192,
+	3.52023 1.7828 191,
+	3.51111 1.7235 190,
+	3.47917 1.7235 189,
+	3.47461 1.7235 189,
+	3.43812 1.7235 189,
+	3.43356 1.7235 188,
+	3.43356 1.7235 186,
+	3.429 1.72806 185,
+	3.34233 1.72806 185,
+	3.29671 1.73263 184,
+	3.31039 1.73263 182,
+	3.31039 1.72806 181,
+	3.36513 1.76456 180,
+	3.37882 1.8193 180,
+	3.37882 1.8193 179,
+	3.37882 1.8193 178,
+	3.37882 1.8193 177,
+	3.37882 1.8193 176,
+	3.37882 1.8193 176,
+	3.40163 1.8421 175,
+	3.39706 1.84667 174,
+	3.41531 1.84667 173,
+	3.42443 1.84667 173,
+	3.43812 1.84667 171,
+	3.47917 1.8786 171,
+	3.47917 1.8786 170,
+	3.47917 1.88772 169,
+	3.46093 1.89228 168,
+	3.46093 1.89228 167,
+	3.4518 1.89228 165,
+	3.43356 1.89228 165,
+	3.42443 1.91053 163,
+	3.42443 1.92878 162,
+	3.42443 1.9379 161,
+	3.42443 1.95158 161,
+	3.39706 1.95158 160,
+	3.36969 1.95158 159,
+	3.36057 1.96071 158,
+	3.36057 1.96071 157,
+	3.36057 1.96071 156,
+	3.35601 1.97439 155,
+	3.36969 2.09756 154,
+	3.37426 2.09756 153,
+	3.42443 2.09299 152,
+	3.42443 2.09299 151,
+	3.46549 2.07019 150,
+	3.46549 2.07019 149,
+	3.46549 2.07019 148,
+	3.46549 2.07019 147,
+	3.49286 2.13861 147,
+	3.49286 2.13861 146,
+	3.49286 2.13861 145,
+	3.48374 2.12949 144,
+	3.48374 2.12949 143,
+	3.47005 2.10668 142,
+	3.44268 2.07931 140,
+	3.44268 2.0565 139,
+	3.4518 2.00632 138,
+	3.4518 1.98808 137,
+	3.4518 1.98808 136,
+	3.4518 1.98808 135,
+	3.4518 1.98808 134,
+	3.4518 1.98808 133,
+	3.4518 1.95615 132,
+	3.4518 1.95615 131,
+	3.4518 1.95615 130,
+	3.4518 1.96983 129,
+	3.4518 2.01088 128,
+	3.45637 2.02913 127,
+	3.47917 2.06106 126,
+	3.47917 2.09299 125,
+	3.47917 2.09299 124,
+	3.47917 2.09299 123,
+	3.47917 2.09299 122,
+	3.47917 2.09299 121,
+	3.47917 2.09299 120,
+	3.47917 2.09299 119,
+	3.47917 2.09299 118,
+	3.50654 2.07475 117,
+	3.50654 2.07475 116,
+	3.50654 2.07475 115,
+	3.50654 2.07475 114,
+	3.50654 2.07475 113,
+	3.51567 2.06106 112,
+	3.53391 2.03369 111,
+	3.53391 2.03369 110,
+	3.53391 2.03369 109,
+	3.53848 2.02913 108,
+	3.53848 2.01088 107,
+	3.53848 2.01088 106,
+	3.53848 2.01088 105,
+	3.49742 2.02001 104,
+	3.49742 2.02001 103,
+	3.44724 2.02001 102,
+	3.40619 2.02913 101,
+	3.40619 2.02913 100,
+	3.40619 2.02913 99,
+	3.40619 2.02913 98,
+	3.40619 2.02913 97,
+	3.40619 2.03369 96,
+	3.40619 2.03369 95,
+	3.34689 2.03369 94,
+	3.34689 2.03369 93,
+	3.29215 2.03369 92,
+	3.2146 2.03369 91,
+	3.17811 2.03825 90,
+	3.13705 2.04282 89,
+	3.10512 2.05194 88,
+	3.10056 2.05194 87,
+	3.08687 2.05194 86,
+	3.07775 2.0565 85,
+	3.07775 2.0565 84,
+	3.03213 2.06562 83,
+	3.0002 2.18423 82,
+	2.95915 2.18879 81,
+	2.93634 2.18879 80,
+	2.90897 2.18879 79,
+	2.88616 2.18879 78,
+	2.8816 2.18879 78,
+	2.85423 2.18879 77,
+	2.81318 2.18879 76,
+	2.80405 2.18879 75,
+	2.77668 2.18879 74,
+	2.67633 2.25721 73,
+	2.63983 2.26634 72,
+	2.6079 2.28002 71,
+	2.60334 2.28458 70,
+	2.59878 2.33932 69,
+	2.57597 2.38038 68,
+	2.55772 2.38038 67,
+	2.51211 2.38038 66,
+	2.47105 2.38038 65,
+	2.46193 2.39862 64,
+	2.45737 2.40318 63,
+	2.45737 2.41687 62,
+	2.45737 2.41687 61,
+	2.45737 2.43055 60,
+	2.45281 2.46249 60,
+	2.42544 2.52635 59,
+	2.40263 2.53091 58,
+	2.37982 2.53091 57,
+	2.3342 2.55372 56,
+	2.32052 2.55372 55,
+	2.31596 2.55372 55,
+	2.30683 2.55372 54,
+	2.28403 2.63127 53,
+	2.24753 2.64951 52,
+	2.2156 2.66776 51,
+	2.16999 2.69513 50,
+	2.14718 2.69969 49,
+	2.14262 2.69969 48,
+	2.13349 2.69969 47,
+	2.13349 2.73618 46,
+	2.13349 2.74531 45,
+	2.13349 2.73162 44,
+	2.13349 2.73162 43,
+	2.13349 2.72706 42,
+	2.13349 2.71338 41,
+	2.13349 2.67688 40,
+	2.13349 2.67688 39,
+	2.13349 2.64951 38,
+	2.11525 2.6267 37,
+	2.10612 2.61302 36,
+	2.097 2.61302 35,
+	2.07419 2.57653 34,
+	2.07419 2.55372 33,
+	2.02858 2.51723 32,
+	2.07419 2.47161 31,
+	2.03314 2.41231 30,
+	2.03314 2.41231 29,
+	2.00577 2.39406 28,
+	2.00577 2.39406 27,
+	1.96927 2.39406 26,
+	1.96927 2.39406 25,
+	1.94647 2.39406 24,
+	1.92822 2.39406 23,
+	1.92822 2.39406 22,
+	1.84611 2.40318 21,
+	1.84611 2.40318 20,
+	1.84611 2.40318 19,
+	1.84611 2.40318 18,
+	1.84611 2.40318 17,
+	1.84611 2.40318 16,
+	1.84611 2.40318 15,
+	1.84611 2.40318 14,
+	1.84611 2.40318 13,
+	1.84611 2.40318 12,
+	1.84611 2.40318 11,
+	1.84611 2.39862 10,
+	"/>
+<ZContour name="d13denzlength02" closed="false" border="1.000 0.000 0.500" fill="1.000 0.000 0.500" mode="-11"
+ points="1.764 2.42143 10,
+	1.80049 2.3895 11,
+	1.80049 2.40775 12,
+	1.80049 2.40318 12,
+	1.80049 2.42143 13,
+	1.85523 2.43968 14,
+	1.86892 2.48529 14,
+	1.91453 2.48986 15,
+	1.98752 2.4488 16,
+	1.98752 2.4488 17,
+	1.98752 2.4488 18,
+	1.98752 2.4488 19,
+	1.98752 2.4488 20,
+	1.98752 2.4488 21,
+	2.00577 2.48986 22,
+	2.00577 2.49898 22,
+	2.03314 2.54916 24,
+	2.08331 2.6039 25,
+	2.10156 2.67232 25,
+	2.10156 2.71794 26,
+	2.10156 2.76812 27,
+	2.10156 2.79092 28,
+	2.10156 2.79549 29,
+	2.10612 2.82286 30,
+	2.11525 2.87303 31,
+	2.11525 2.89128 32,
+	2.14262 2.89128 34,
+	2.15174 2.88216 35,
+	2.16086 2.85479 36,
+	2.16086 2.83654 37,
+	2.16086 2.81373 39,
+	2.16086 2.75899 40,
+	2.16086 2.71794 40,
+	2.16086 2.71794 42,
+	2.16086 2.71794 42,
+	2.17911 2.69513 44,
+	2.20192 2.67232 44,
+	2.22929 2.64951 46,
+	2.22929 2.64039 46,
+	2.23385 2.6267 48,
+	2.2521 2.60846 48,
+	2.27034 2.59021 50,
+	2.30683 2.56284 51,
+	2.34333 2.53547 52,
+	2.43 2.46249 52,
+	2.44825 2.43968 53,
+	2.48018 2.3895 54,
+	2.48474 2.38494 55,
+	2.50755 2.37582 56,
+	2.53492 2.35757 57,
+	2.55772 2.34845 58,
+	2.57597 2.34388 59,
+	2.6079 2.33476 60,
+	2.63983 2.32108 61,
+	2.67177 2.31651 62,
+	2.7037 2.31195 63,
+	2.71738 2.30739 64,
+	2.71738 2.30739 66,
+	2.77668 2.30739 67,
+	2.83142 2.29371 67,
+	2.83598 2.29371 69,
+	2.84967 2.28914 70,
+	2.8816 2.28002 70,
+	2.89529 2.2709 71,
+	2.91353 2.25721 72,
+	2.91353 2.25721 73,
+	2.95915 2.22528 74,
+	2.99108 2.19791 75,
+	3.02757 2.15686 76,
+	3.02757 2.15686 77,
+	3.02757 2.15686 78,
+	3.04126 2.15686 80,
+	3.0595 2.15686 81,
+	3.08231 2.16142 81,
+	3.10968 2.16142 82,
+	3.14161 2.16598 83,
+	3.17811 2.16598 84,
+	3.21916 2.16598 85,
+	3.25109 2.16142 86,
+	3.25109 2.16142 87,
+	3.24653 2.15686 88,
+	3.40163 2.10668 90,
+	3.40163 2.09756 91,
+	3.39706 2.09299 92,
+	3.35601 2.08843 93,
+	3.35145 2.07931 94,
+	3.27846 2.10212 95,
+	3.27846 2.10212 96,
+	3.27846 2.10212 97,
+	3.27846 2.10212 98,
+	3.26478 2.11124 99,
+	3.26478 2.12949 100,
+	3.26022 2.12949 101,
+	3.26022 2.12949 102,
+	3.26022 2.12949 103,
+	3.26478 2.1523 104,
+	3.26022 2.1523 105,
+	3.24653 2.1523 107,
+	3.28302 2.13405 108,
+	3.28302 2.13405 108,
+	3.28302 2.13405 109,
+	3.2146 2.13861 110,
+	3.2146 2.13861 111,
+	3.2146 2.13405 113,
+	3.2146 2.13405 114,
+	3.25565 2.12949 115,
+	3.25565 2.12949 116,
+	3.25565 2.12949 117,
+	3.26022 2.1158 118,
+	3.26022 2.1158 119,
+	3.29215 2.11124 120,
+	3.29215 2.11124 121,
+	3.38794 2.01545 122,
+	3.38794 2.03369 123,
+	3.42443 2.03369 124,
+	3.42443 2.03369 125,
+	3.42443 2.03369 126,
+	3.4518 2.07475 127,
+	3.45637 2.11124 127,
+	3.46549 2.13405 127,
+	3.46549 2.13405 129,
+	3.46549 2.13405 130,
+	3.46549 2.13405 132,
+	3.46549 2.13405 133,
+	3.46549 2.13405 135,
+	3.46549 2.13405 137,
+	3.46093 2.13405 138,
+	3.45637 2.12036 139,
+	3.41075 2.12036 139,
+	3.41075 2.12036 141,
+	3.38794 2.12036 141,
+	3.36969 2.12036 143,
+	3.31039 2.12493 144,
+	3.30583 2.12493 144,
+	3.30583 2.1158 145,
+	3.29671 2.10212 147,
+	3.28302 2.07931 148,
+	3.28302 2.06106 148,
+	3.2739 1.98808 149,
+	3.27846 2.00176 151,
+	3.27846 1.98808 151,
+	3.27846 1.97895 152,
+	3.27846 1.96983 153,
+	3.30583 1.96983 155,
+	3.30583 1.96983 156,
+	3.30583 1.96983 156,
+	3.30583 1.96983 157,
+	3.30583 1.96983 158,
+	3.30583 1.98808 159,
+	3.30583 1.98808 160,
+	3.30583 1.99264 161,
+	3.30583 1.99264 162,
+	3.30583 1.98808 163,
+	3.31039 1.97895 164,
+	3.31039 1.96983 165,
+	3.31496 1.96527 167,
+	3.31496 1.94246 168,
+	3.3332 1.90597 168,
+	3.33776 1.87404 169,
+	3.34689 1.77824 170,
+	3.34689 1.77824 171,
+	3.34689 1.77824 172,
+	3.34689 1.77824 173,
+	3.34689 1.77824 174,
+	3.34689 1.77824 175,
+	3.34689 1.77824 176,
+	3.35145 1.77824 177,
+	3.35601 1.77824 178,
+	3.35601 1.77824 179,
+	3.35601 1.77368 180,
+	3.35601 1.76912 181,
+	3.35601 1.76912 182,
+	3.35601 1.76912 183,
+	3.35601 1.77368 184,
+	3.35601 1.7828 185,
+	3.3332 1.88316 186,
+	3.3332 1.89228 187,
+	3.35145 1.91965 188,
+	3.36969 1.92421 189,
+	3.38338 1.91965 190,
+	3.45637 1.90141 192,
+	3.45637 1.90141 193,
+	3.50654 1.90597 194,
+	3.53391 1.88316 195,
+	3.53391 1.83754 196,
+	3.47917 1.83298 197,
+	3.49742 1.80105 198,
+	3.49742 1.80105 199,
+	3.49742 1.80105 200,
+	"/>
+<ZContour name="d13denzlength03" closed="false" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="11"
+ points="3.52479 1.82386 200,
+	3.53391 1.86491 199,
+	3.53848 1.86491 198,
+	3.53848 1.85579 197,
+	3.53848 1.83754 196,
+	3.53848 1.83298 195,
+	3.53848 1.81017 194,
+	3.47917 1.75087 193,
+	3.44268 1.73719 193,
+	3.39706 1.73719 191,
+	3.36057 1.73719 190,
+	3.33776 1.73719 189,
+	3.33776 1.73719 188,
+	3.33776 1.73719 187,
+	3.33776 1.74631 186,
+	3.31952 1.74631 185,
+	3.31952 1.75087 184,
+	3.31496 1.75999 183,
+	3.31496 1.76456 183,
+	3.31496 1.76912 182,
+	3.29671 1.76912 181,
+	3.31952 1.80105 181,
+	3.36513 1.85123 181,
+	3.36513 1.85579 180,
+	3.36513 1.86491 178,
+	3.36513 1.87404 177,
+	3.36513 1.87404 176,
+	3.36513 1.87404 174,
+	3.43812 1.84667 173,
+	3.42443 1.84667 172,
+	3.42443 1.85123 171,
+	3.42443 1.85579 170,
+	3.41531 1.85579 169,
+	3.38794 1.86491 167,
+	3.31039 1.92421 166,
+	3.32408 1.92421 165,
+	3.32408 1.92421 164,
+	3.32864 1.92421 162,
+	3.32864 1.92421 161,
+	3.32864 1.91965 160,
+	3.32864 1.92421 160,
+	3.34689 1.97895 160,
+	3.37426 2.02913 158,
+	3.40163 2.0565 157,
+	3.40619 2.06562 156,
+	3.44724 2.09299 153,
+	3.46093 2.13861 152,
+	3.46093 2.13861 151,
+	3.46093 2.13861 150,
+	3.46093 2.13861 149,
+	3.46093 2.13861 148,
+	3.46093 2.13861 147,
+	3.46093 2.13861 146,
+	3.46093 2.13861 145,
+	3.46093 2.13861 144,
+	3.46093 2.14317 143,
+	3.46093 2.14773 142,
+	3.46093 2.14773 141,
+	3.46093 2.14773 140,
+	3.45637 2.10212 139,
+	3.45637 2.08843 138,
+	3.46093 2.06106 137,
+	3.4518 2.03369 136,
+	3.4518 2.03369 135,
+	3.4518 2.03369 134,
+	3.4518 2.03369 133,
+	3.4518 2.03369 132,
+	3.4518 2.03369 131,
+	3.4518 2.03369 130,
+	3.4518 2.03369 129,
+	3.4518 2.04738 129,
+	3.4518 2.04738 129,
+	3.4518 2.04738 127,
+	3.4518 2.04738 126,
+	3.4518 2.04738 125,
+	3.4518 2.04738 123,
+	3.4518 2.04738 121,
+	3.4518 2.04738 120,
+	3.4518 2.04738 119,
+	3.4518 2.04738 117,
+	3.4518 2.04738 116,
+	3.46549 2.04738 115,
+	3.46549 2.04738 114,
+	3.46549 2.04738 113,
+	3.45637 2.04738 112,
+	3.45637 2.05194 111,
+	3.45637 2.05194 110,
+	3.4518 2.06106 109,
+	3.43812 2.06562 108,
+	3.40619 2.06562 107,
+	3.37882 2.06562 106,
+	3.36057 2.06562 105,
+	3.34689 2.06562 103,
+	3.3332 2.06562 102,
+	3.31496 2.06562 101,
+	3.2739 2.07019 101,
+	3.24197 2.07475 100,
+	3.21004 2.07475 99,
+	3.18267 2.07475 98,
+	3.14161 2.07931 97,
+	3.14161 2.07931 96,
+	3.10512 2.08843 95,
+	3.096 2.09299 94,
+	3.0595 2.09756 92,
+	3.0595 2.09756 91,
+	3.05038 2.11124 90,
+	3.05038 2.11124 89,
+	3.05038 2.11124 89,
+	3.02757 2.12493 88,
+	3.02301 2.12493 87,
+	3.02301 2.12493 86,
+	3.02301 2.12493 85,
+	2.99108 2.13405 84,
+	2.98652 2.13405 83,
+	2.94546 2.13405 82,
+	2.8816 2.1751 81,
+	2.74019 2.2116 81,
+	2.7037 2.24353 81,
+	2.69001 2.24809 81,
+	2.6672 2.25265 80,
+	2.56685 2.32108 79,
+	2.53492 2.32564 77,
+	2.47562 2.33932 76,
+	2.47562 2.33932 75,
+	2.47562 2.33932 74,
+	2.46649 2.33932 73,
+	2.46649 2.33932 72,
+	2.43912 2.33932 70,
+	2.42088 2.33932 69,
+	2.41175 2.33932 68,
+	2.41175 2.33932 67,
+	2.41175 2.33932 66,
+	2.41175 2.33932 65,
+	2.41175 2.33932 64,
+	2.41175 2.33932 62,
+	2.41175 2.37125 62,
+	2.41175 2.37582 60,
+	2.41175 2.45336 59,
+	2.41175 2.52179 58,
+	2.37982 2.58109 58,
+	2.37982 2.58109 57,
+	2.37526 2.61758 55,
+	2.37526 2.61758 55,
+	2.27946 2.71794 54,
+	2.24297 2.73618 52,
+	2.23841 2.73618 52,
+	2.20192 2.73618 50,
+	2.18367 2.75899 49,
+	2.12893 2.78636 48,
+	2.10612 2.79092 47,
+	2.10612 2.80005 46,
+	2.10612 2.80005 45,
+	2.10612 2.80005 44,
+	2.10612 2.79549 43,
+	2.10612 2.79092 41,
+	2.10156 2.7225 41,
+	2.09244 2.67232 40,
+	2.09244 2.61302 39,
+	2.08788 2.56284 38,
+	2.08331 2.5081 37,
+	2.08331 2.49898 36,
+	2.07875 2.40775 34,
+	2.04682 2.40775 33,
+	1.98296 2.37125 32,
+	1.98296 2.37125 31,
+	1.98296 2.37125 30,
+	1.98296 2.37582 28,
+	1.98296 2.37582 27,
+	1.98296 2.37582 26,
+	1.98296 2.37582 25,
+	1.96471 2.37582 24,
+	1.96471 2.37582 23,
+	1.91453 2.39406 22,
+	1.88716 2.40318 21,
+	1.88716 2.40318 20,
+	1.86892 2.40318 19,
+	1.86436 2.40775 18,
+	1.86436 2.40775 17,
+	1.86436 2.40775 16,
+	1.86436 2.40775 15,
+	1.86436 2.40775 14,
+	1.86436 2.40775 13,
+	1.86436 2.40775 13,
+	1.86436 2.40775 11,
+	1.86436 2.41687 10,
+	"/>
+<ZContour name="d01z03" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="4.26288 3.55384 107,
+	4.23497 3.57337 106,
+	3.62379 3.62082 45,
+	3.2582 3.40034 9,
+	"/>
+<ZContour name="d01z02" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="3.2582 3.41709 9,
+	3.3196 3.51477 24,
+	3.72147 3.63756 56,
+	4.24892 3.55942 107,
+	"/>
+<ZContour name="d01z01" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="4.24892 3.57616 107,
+	3.64333 3.60965 45,
+	3.2582 3.41709 9,
+	"/>
+<ZContour name="d02z_1" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="6.34555 2.32922 167,
+	6.36855 2.35222 145,
+	6.54597 2.08937 120,
+	7.10126 2.0368 100,
+	7.31483 1.78051 54,
+	"/>
+<ZContour name="d02z_2" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="7.32797 1.77723 54,
+	7.36083 1.79037 55,
+	7.24911 2.05323 74,
+	6.58869 2.06637 116,
+	6.34555 2.32922 167,
+	"/>
+<ZContour name="d02z_3" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="6.36526 2.35551 167,
+	6.48026 2.31608 138,
+	6.62483 2.05651 116,
+	7.11768 2.04337 99,
+	7.34111 1.76737 54,
+	"/>
+<ZContour name="d04z_1" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="2.24282 3.83903 106,
+	2.31683 3.8716 97,
+	2.54776 4.06997 80,
+	2.86159 4.48446 68,
+	3.03923 4.89895 55,
+	3.2672 5.30455 38,
+	3.46852 5.62134 3,
+	"/>
+<ZContour name="d04z_3" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="3.45668 5.63911 3,
+	3.38562 5.38153 28,
+	3.07476 5.00849 49,
+	2.84975 4.56439 66,
+	2.51223 4.21504 78,
+	2.23097 3.842 106,
+	"/>
+<ZContour name="d04z_4" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="2.26946 3.842 106,
+	2.33756 3.81535 102,
+	2.67803 4.01667 79,
+	2.85271 4.48446 68,
+	3.02147 4.90487 55,
+	3.26424 5.30752 37,
+	3.45668 5.63911 3,
+	"/>
+<ZContour name="d05z_1" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="5.71455 4.78863 108,
+	5.24719 5.13589 99,
+	4.66493 5.56671 86,
+	4.20017 5.83564 78,
+	4.15579 6.12024 68,
+	4.16884 6.42573 58,
+	4.24978 6.84871 48,
+	4.27328 7.30302 34,
+	4.22367 7.64767 25,
+	4.20279 8.04193 14,
+	4.12968 8.30565 10,
+	"/>
+<ZContour name="d05z_2" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="4.14534 8.27954 10,
+	4.2054 8.04716 14,
+	4.21845 7.66073 24,
+	4.27328 7.38396 31,
+	4.25762 6.95054 44,
+	4.15579 6.4675 57,
+	4.1349 6.03669 71,
+	4.28373 5.71553 79,
+	4.74848 5.51449 89,
+	5.22891 5.15156 99,
+	5.71455 4.78863 108,
+	"/>
+<ZContour name="d05z_3" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="5.73283 4.79385 108,
+	5.59967 4.91657 106,
+	5.15319 5.24816 97,
+	4.59182 5.65809 83,
+	4.20801 5.97402 72,
+	4.18451 6.26645 62,
+	4.1584 6.67377 54,
+	4.26284 7.08631 40,
+	4.2054 7.5589 27,
+	4.24456 7.93488 15,
+	4.14534 8.27954 10,
+	"/>
+<ZContour name="d08z_1" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="6.43348 5.83756 123,
+	6.40245 5.92402 119,
+	6.51994 6.19003 108,
+	6.67511 6.44495 94,
+	6.89457 6.64668 80,
+	6.82363 6.94372 66,
+	6.8059 7.31835 54,
+	6.73496 7.56884 35,
+	"/>
+<ZContour name="d08z_2" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="6.74383 7.55998 35,
+	6.68841 7.3649 45,
+	6.76156 7.17426 59,
+	6.83693 6.90604 67,
+	6.85023 6.58682 86,
+	6.63521 6.34298 100,
+	6.48225 6.08806 113,
+	6.43348 5.83756 123,
+	"/>
+<ZContour name="d08z_3" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="6.44013 5.83978 123,
+	6.48447 5.97722 118,
+	6.56649 6.23658 107,
+	6.66181 6.46269 95,
+	6.83915 6.63116 85,
+	6.86353 6.89495 67,
+	6.78373 7.2585 55,
+	6.74383 7.55998 35,
+	"/>
+<ZContour name="d10z_1" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="7.50131 1.9703 126,
+	7.59651 2.09146 123,
+	7.87632 2.30204 111,
+	7.98593 2.67704 92,
+	7.43208 2.84147 69,
+	7.11766 3.16166 57,
+	6.90419 3.50205 47,
+	6.6763 3.7934 36,
+	6.33015 4.20014 26,
+	6.13688 4.56937 4,
+	"/>
+<ZContour name="d10z_2" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="6.15418 4.53764 4,
+	6.28111 4.24629 22,
+	6.584 3.94917 32,
+	6.884 3.60013 45,
+	7.06862 3.29147 54,
+	7.21285 2.96262 63,
+	7.63401 2.7982 78,
+	8.09267 2.56166 99,
+	7.85901 2.33377 111,
+	7.50131 1.9703 126,
+	"/>
+<ZContour name="d10z_3" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="7.50131 1.96165 126,
+	7.59074 2.028 124,
+	7.79843 2.27896 112,
+	8.06093 2.62512 93,
+	7.45227 2.83281 69,
+	7.1465 3.10397 58,
+	6.91861 3.48474 47,
+	6.659 3.7934 36,
+	6.35034 4.19148 26,
+	6.12534 4.54629 4,
+	"/>
+<ZContour name="d02z_1mw" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="6.34468 2.33193 172,
+	6.3759 2.32153 144,
+	6.58748 2.0822 119,
+	7.12165 2.04057 99,
+	7.34364 1.77349 54,
+	"/>
+<ZContour name="d02z_2mw" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="7.3367 1.78043 54,
+	7.26039 2.03364 72,
+	6.69154 2.05792 117,
+	6.3204 2.3354 172,
+	"/>
+<ZContour name="d02z_3mw" closed="false" border="0.502 0.000 1.000" fill="0.502 0.000 1.000" mode="9"
+ points="6.32734 2.33193 172,
+	6.40018 2.34234 143,
+	6.54239 2.07873 120,
+	7.13552 2.04057 99,
+	7.3367 1.78043 54,
+	"/>
+<ZContour name="d01zlen_down" comment="17sep2016KH" closed="false" border="0.000 0.000 1.000" fill="1.000 1.000 0.000" mode="11"
+ points="6.79113 2.78342 208,
+	6.79113 2.78626 203,
+	6.30591 3.12393 195,
+	5.70434 3.13812 181,
+	5.12548 3.21757 160,
+	4.46433 3.42471 124,
+	4.05005 3.48997 76,
+	3.5024 3.55807 42,
+	3.24985 3.38215 9,
+	"/>
+<ZContour name="d01zlen_up" comment="17sep2016KH" closed="false" border="0.000 0.000 1.000" fill="1.000 1.000 0.000" mode="11"
+ points="3.24134 3.38215 9,
+	3.22999 3.4843 20,
+	3.55915 3.58645 43,
+	4.04437 3.55807 91,
+	4.48419 3.35945 127,
+	4.96658 3.27716 158,
+	5.57098 3.1296 180,
+	6.02215 3.18068 191,
+	6.51589 3.06718 197,
+	6.79397 2.78342 208,
+	"/>
+<ZContour name="yellow1" closed="false" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
+ points="3.30528 3.51921 25,
+	3.16501 3.44908 13,
+	"/>
+<ZContour name="yellow1" closed="false" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
+ points="3.16501 3.4172 13,
+	3.30528 3.51921 25,
+	"/>
+<ZContour name="yellow1" closed="false" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
+ points="3.92374 3.5224 71,
+	3.73565 3.55747 62,
+	"/>
+<ZContour name="yellow1" closed="false" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
+ points="3.72927 3.56066 62,
+	3.92374 3.5224 71,
+	"/>
+<ZContour name="yellow1" closed="false" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
+ points="4.04806 3.4969 78,
+	4.04806 3.4969 89,
+	"/>
+<ZContour name="yellow1" closed="false" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
+ points="4.04806 3.4969 89,
+	4.04806 3.4969 78,
+	"/>
+<ZContour name="d02zlen_up" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.32529 2.57801 204,
+	6.3123 2.33984 153,
+	6.53748 2.09083 120,
+	7.0723 2.04103 100,
+	7.3841 1.77254 49,
+	"/>
+<ZContour name="d02zlen_down" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="7.3841 1.76605 49,
+	7.3841 1.76605 52,
+	7.18056 2.05402 74,
+	6.54182 2.08867 120,
+	6.18888 2.31385 158,
+	6.32746 2.57368 204,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.0304 3.51267 89,
+	4.0304 3.51477 78,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.0304 3.51267 78,
+	4.0304 3.51267 89,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.4773 3.37839 121,
+	4.29476 3.5924 108,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.29267 3.5924 108,
+	4.4773 3.37629 121,
+	"/>
+<ZContour name="d02zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.40966 2.1489 127,
+	6.54184 2.09015 120,
+	"/>
+<ZContour name="d02zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.53764 2.09644 120,
+	6.40966 2.1489 127,
+	"/>
+<ZContour name="d02zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.37399 2.258 139,
+	6.46631 2.21184 131,
+	"/>
+<ZContour name="d02zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.46421 2.21603 131,
+	6.37189 2.258 139,
+	"/>
+<ZContour name="d02zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.30895 2.34192 167,
+	6.30895 2.34192 151,
+	"/>
+<ZContour name="d02zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.30895 2.34192 151,
+	6.30895 2.34192 167,
+	"/>
+<ZContour name="d02zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.31734 2.46991 188,
+	6.28587 2.32933 173,
+	"/>
+<ZContour name="d02zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.26909 2.30416 173,
+	6.31734 2.46991 188,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.21297 6.81576 47,
+	4.26464 7.21883 35,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.26206 7.21366 35,
+	4.21297 6.81576 47,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.16904 6.73308 51,
+	4.15096 6.00188 71,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.13545 6.01738 71,
+	4.16904 6.73308 51,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.90533 4.19066 136,
+	5.99059 4.44904 117,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.98542 4.44387 117,
+	5.90533 4.19066 136,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.79423 4.13382 140,
+	5.67279 3.97621 154,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.68054 3.96071 154,
+	5.79423 4.13382 140,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.38858 3.70233 173,
+	5.6392 3.84702 163,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.63145 3.84444 163,
+	5.38858 3.70233 173,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.05269 3.12615 194,
+	5.2413 3.52664 181,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.23872 3.52147 181,
+	5.05269 3.12615 194,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.01331 2.78453 206,
+	5.07982 3.11706 194,
+	5.17027 3.48152 184,
+	5.47886 3.74488 171,
+	5.50014 3.96302 156,
+	5.94972 4.1652 134,
+	5.89652 4.52966 115,
+	5.59857 4.90475 106,
+	5.14366 5.17078 98,
+	4.63555 5.57248 86,
+	4.21523 5.79594 78,
+	4.14873 6.09921 69,
+	4.15405 6.36524 58,
+	4.22321 6.81216 49,
+	4.26312 7.2378 35,
+	4.23652 7.63418 26,
+	4.24716 7.95873 15,
+	4.15671 8.26998 10,
+	"/>
+<ZContour name="d05zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.15253 8.27818 10,
+	4.20139 7.97958 14,
+	4.23939 7.76784 19,
+	4.21768 7.45838 29,
+	4.25025 7.08378 38,
+	4.22853 6.72003 52,
+	4.16881 6.29113 60,
+	4.15253 5.87852 74,
+	4.42941 5.65049 81,
+	4.84745 5.44962 92,
+	5.3795 4.98814 103,
+	5.86269 4.50496 113,
+	5.92241 4.17921 127,
+	5.92241 4.17921 131,
+	5.57495 3.94576 158,
+	5.40122 3.71231 160,
+	5.40122 3.71231 171,
+	5.16777 3.48428 183,
+	5.06462 3.11511 194,
+	5.01575 2.79479 206,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.92016 4.90764 207,
+	4.92016 4.90764 204,
+	5.1169 5.17666 182,
+	5.3538 5.30515 172,
+	5.63487 5.43363 156,
+	5.87979 5.58621 149,
+	6.25722 5.71068 139,
+	6.47003 5.85925 120,
+	6.53427 6.1644 108,
+	6.68685 6.44145 93,
+	6.88761 6.6663 79,
+	6.79927 6.97547 66,
+	6.7792 7.26457 55,
+	6.74306 7.5376 36,
+	6.67079 7.76245 22,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.78321 6.53781 87,
+	6.91973 6.85903 68,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.91571 6.84698 68,
+	6.78321 6.53781 87,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.51821 6.0319 115,
+	6.62662 6.31698 101,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.6226 6.30895 101,
+	6.51821 6.0319 115,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.98842 4.99196 198,
+	5.07274 5.10439 187,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.06471 5.10439 187,
+	4.98842 4.99196 198,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.6467 7.76245 22,
+	6.73503 7.64199 30,
+	6.70291 7.49343 39,
+	6.76715 7.29669 54,
+	6.7792 7.01964 64,
+	6.86753 6.75062 70,
+	6.727 6.49365 89,
+	6.62261 6.32099 101,
+	6.53829 5.98773 116,
+	6.36965 5.78296 123,
+	6.10063 5.63841 140,
+	5.78343 5.53 153,
+	5.54653 5.36136 160,
+	5.26547 5.26098 174,
+	4.94024 5.11643 191,
+	4.94425 4.87552 207,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="7.28118 0.547105 205,
+	7.23014 0.674711 198,
+	6.81669 0.924818 186,
+	6.66867 1.10347 175,
+	6.79117 1.48118 152,
+	7.28628 1.77212 134,
+	7.52618 2.00181 125,
+	7.74566 2.24681 113,
+	8.09275 2.46119 103,
+	7.89879 2.69088 89,
+	7.38326 2.81849 68,
+	7.10253 3.21151 56,
+	6.91878 3.46673 47,
+	6.64315 3.75767 38,
+	6.35731 4.18642 26,
+	6.16335 4.56414 5,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.15825 4.56414 5,
+	6.31648 4.19663 24,
+	6.59211 3.95163 32,
+	6.79628 3.60964 45,
+	7.12295 3.26766 54,
+	7.32201 2.91547 65,
+	7.75587 2.73682 81,
+	8.00598 2.40505 110,
+	7.57212 2.06306 123,
+	7.35264 1.79254 138,
+	7.04128 1.64451 144,
+	6.76055 1.43524 156,
+	6.74013 1.01159 180,
+	7.02597 0.771691 192,
+	7.28118 0.547105 205,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.2195 4.34465 16,
+	6.16335 4.56924 5,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.15314 4.57434 5,
+	6.2195 4.34465 16,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="8.11317 2.59901 94,
+	7.34753 2.8287 67,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="7.34243 2.8338 67,
+	8.11317 2.59901 94,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="7.50576 2.01712 126,
+	7.72525 2.25192 113,
+	8.07744 2.58369 98,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="8.06723 2.57859 98,
+	7.85796 2.30806 111,
+	7.50576 2.01712 126,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.95961 1.68024 145,
+	7.33222 1.80275 133,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="7.33222 1.80275 133,
+	6.95961 1.68024 145,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.70718 5.52202 88,
+	5.18396 5.14579 100,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.20667 5.14903 100,
+	4.70718 5.52202 88,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="7.09769 0.735832 195,
+	6.76961 0.942317 183,
+	"/>
+<ZContour name="d10zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.73061 0.958377 183,
+	7.09769 0.735832 195,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.29928 3.59399 108,
+	4.48024 3.37951 121,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.5104 3.37281 121,
+	4.29928 3.59399 108,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.92594 3.29239 153,
+	4.497 3.35271 127,
+	4.50705 3.3326 127,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.497 3.35271 127,
+	4.93264 3.29239 153,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.98824 3.14159 188,
+	5.98824 3.14159 188,
+	5.55595 3.13153 177,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.5526 3.13488 177,
+	5.98824 3.14159 188,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.34148 3.18515 169,
+	4.88908 3.31919 156,
+	"/>
+<ZContour name="d01zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.88237 3.31584 156,
+	5.34148 3.18515 169,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.90379 5.5982 148,
+	6.0732 5.60134 141,
+	6.41204 5.77389 124,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.41831 5.75821 124,
+	6.26145 5.70487 138,
+	5.90379 5.60134 148,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.02218 5.15583 183,
+	5.27004 5.25937 175,
+	5.59632 5.4131 159,
+	"/>
+<ZContour name="d08zlen_" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.59005 5.4131 159,
+	5.41749 5.33153 170,
+	5.02218 5.15583 183,
+	"/>
+<ZContour name="d010zlen_" comment="5jan2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.67351 3.82109 35,
+	6.26197 4.2451 21,
+	"/>
+<ZContour name="d010zlen_" comment="5jan2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.27028 4.2451 21,
+	6.67351 3.82109 35,
+	6.67351 3.82109 35,
+	"/>
+<ZContour name="d10zlen_" comment="5jan2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.66104 3.84603 35,
+	6.26197 4.24094 21,
+	"/>
+<ZContour name="d10zlen_" comment="5jan2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.26197 4.24926 21,
+	6.66104 3.84603 35,
+	"/>
+<ZContour name="d10zlen_" comment="5jan2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.58175 1.1552 171,
+	6.76249 1.37811 159,
+	"/>
+<ZContour name="d10zlen_" comment="5jan2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.76249 1.36004 159,
+	6.58175 1.1552 171,
+	"/>
+<ZContour name="d10zlen_" comment="5jan2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.9219 0.943195 182,
+	6.63465 1.11351 174,
+	"/>
+<ZContour name="d10zlen_" comment="5jan2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.60415 1.09826 174,
+	6.9219 0.943195 182,
+	"/>
+<ZContour name="d05zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.77778 4.74093 108,
+	5.59675 4.89662 106,
+	5.12245 5.19713 98,
+	4.6047 5.58091 85,
+	"/>
+<ZContour name="d05zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="4.61556 5.58453 85,
+	4.73142 5.49764 89,
+	5.21658 5.1573 100,
+	5.77778 4.74093 108,
+	"/>
+<ZContour name="d05zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.87553 4.46576 116,
+	5.77778 4.70834 109,
+	"/>
+<ZContour name="d05zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.79588 4.72645 109,
+	5.87553 4.46576 116,
+	"/>
+<ZContour name="d10zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="7.14275 3.01029 60,
+	6.91465 3.4701 47,
+	"/>
+<ZContour name="d10zlen_" comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="6.91827 3.46648 47,
+	7.14275 3.01029 60,
+	"/>
+<ZContour name="d08p34 3DEM head dia " comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.37582 5.88461 195,
+	4.95313 5.75302 195,
+	"/>
+<ZContour name="d08p34 3DEM head dia " comment="24feb2017KH" closed="false" border="0.000 0.000 0.502" fill="0.000 1.000 0.000" mode="9"
+ points="5.39736 5.83284 196,
+	4.96013 5.75064 195,
+	"/>
+<ZContour name="d17_cl09_asyn_zlen" closed="false" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="2.91602 6.58942 63,
+	3.21016 6.53638 53,
+	"/>
+<ZContour name="d17_cl12_syn_zlen" closed="false" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="1.82868 6.5412 80,
+	2.27229 6.59183 76,
+	2.91843 6.58219 63,
+	"/>
+<ZContour name="d17_cl13_asyn_zlen" closed="false" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="1.53695 6.54843 83,
+	1.85279 6.54361 80,
+	"/>
+<ZContour name="d17_cl14_syn_symm_zlen" closed="false" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="1.25931 6.55135 89,
+	1.51944 6.52915 83,
+	"/>
+<ZContour name="d17_cl15_asyn_zlen" closed="false" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="1.04042 6.55453 94,
+	1.20855 6.5577 89,
+	"/>
+<ZContour name="d17_cl16_syn_zlen" closed="false" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="0.415476 6.44667 107,
+	1.04994 6.55453 94,
+	"/>
+<ZContour name="d17_cl25_asyn_zlen" closed="false" border="1.000 0.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="0.22831 6.47522 113,
+	0.409132 6.44032 107,
+	"/>
+<ZContour name="d17_Z" closed="false" border="0.000 0.000 0.000" fill="1.000 0.000 1.000" mode="9"
+ points="4.47164 6.72986 1,
+	4.42084 6.70454 2,
+	4.40466 6.71558 3,
+	4.39154 6.71633 4,
+	4.36066 6.72611 5,
+	4.36969 6.78473 6,
+	4.31857 6.77295 7,
+	4.27223 6.75744 8,
+	4.25129 6.77454 9,
+	4.20069 6.74088 10,
+	4.19292 6.74789 11,
+	4.18352 6.72001 12,
+	4.16049 6.69294 13,
+	4.13224 6.67963 14,
+	4.13098 6.67022 15,
+	4.11042 6.65192 16,
+	4.13443 6.62835 17,
+	4.12973 6.61694 18,
+	4.06319 6.60107 19,
+	4.05807 6.59755 20,
+	4.04563 6.59905 21,
+	4.02803 6.60258 22,
+	3.96959 6.59381 23,
+	4.02159 6.60604 24,
+	3.99409 6.61177 25,
+	3.99896 6.59657 26,
+	3.98924 6.60792 27,
+	3.98693 6.60565 28,
+	3.97488 6.59289 29,
+	3.97661 6.6033 30,
+	3.90349 6.58513 31,
+	3.79491 6.57691 32,
+	3.77098 6.56113 33,
+	3.69642 6.55921 34,
+	3.69402 6.55276 35,
+	3.68519 6.54375 36,
+	3.68985 6.54255 37,
+	3.63775 6.55606 38,
+	3.5892 6.55178 39,
+	3.51782 6.54905 40,
+	3.4886 6.552 41,
+	3.42605 6.56765 42,
+	3.39156 6.58775 43,
+	3.34749 6.58412 44,
+	3.31521 6.58097 45,
+	3.29227 6.57064 46,
+	3.28902 6.57299 47,
+	3.23882 6.57178 48,
+	3.27664 6.55138 49,
+	3.24843 6.52627 50,
+	3.28826 6.50322 51,
+	3.31484 6.50012 52,
+	3.27332 6.48924 53,
+	3.24769 6.48651 54,
+	3.1768 6.48656 55,
+	3.15634 6.49887 56,
+	3.09831 6.50481 57,
+	3.08009 6.51195 58,
+	3.08884 6.53686 59,
+	3.04763 6.53596 60,
+	3.03468 6.56119 61,
+	2.97641 6.56293 62,
+	2.902 6.57341 63,
+	2.90421 6.58008 64,
+	2.87705 6.58499 65,
+	2.82735 6.59359 66,
+	2.79847 6.59213 67,
+	2.78255 6.54907 68,
+	2.71871 6.51898 69,
+	2.6862 6.48166 70,
+	2.65697 6.49512 71,
+	2.56244 6.51697 72,
+	2.44746 6.53161 73,
+	2.3748 6.53696 74,
+	2.31632 6.54172 75,
+	2.21259 6.55599 76,
+	2.13502 6.54715 77,
+	2.04408 6.5188 78,
+	1.94081 6.47701 79,
+	1.8126 6.51368 80,
+	1.74007 6.54031 81,
+	1.58989 6.53796 82,
+	1.51608 6.51617 83,
+	1.45143 6.52039 84,
+	1.35724 6.52502 85,
+	1.28768 6.52726 86,
+	1.21474 6.54085 87,
+	1.21653 6.53614 88,
+	1.19837 6.55924 89,
+	1.14086 6.5549 90,
+	1.1443 6.55633 91,
+	1.07375 6.56991 92,
+	1.07244 6.57411 93,
+	1.05194 6.5368 94,
+	0.921299 6.51349 95,
+	0.895393 6.47989 96,
+	0.891986 6.47743 97,
+	0.83714 6.47783 98,
+	0.805906 6.44748 99,
+	0.716154 6.4432 100,
+	0.688114 6.42986 101,
+	0.652906 6.44485 102,
+	0.579021 6.40672 103,
+	0.544199 6.38471 104,
+	0.520553 6.39067 105,
+	0.428179 6.43649 106,
+	0.400914 6.44229 107,
+	0.33541 6.43089 108,
+	0.309237 6.43061 109,
+	0.294151 6.43597 110,
+	0.273174 6.44025 111,
+	0.303489 6.41508 112,
+	0.249389 6.42047 113,
+	0.199726 6.42141 114,
+	0.167461 6.41032 115,
+	0.160392 6.38209 116,
+	0.145786 6.36675 117,
+	0.0890632 6.32278 118,
+	0.0431692 6.33635 119,
+	0.0308141 6.31251 120,
+	0.0168927 6.31158 121,
+	-0.00767208 6.30561 122,
+	-0.0391245 6.28247 123,
+	-0.0452941 6.27046 124,
+	-0.0782099 6.25054 125,
+	-0.0915045 6.25607 126,
+	-0.126812 6.26637 127,
+	-0.149671 6.26308 128,
+	-0.174755 6.25901 129,
+	-0.229873 6.25535 130,
+	-0.240675 6.26746 131,
+	-0.240674 6.26746 132,
+	-0.237322 6.26454 133,
+	-0.266264 6.24726 134,
+	-0.263746 6.25774 135,
+	-0.272783 6.26932 136,
+	-0.283978 6.27407 137,
+	-0.307166 6.279 138,
+	-0.28425 6.26549 139,
+	-0.313949 6.2513 140,
+	-0.338634 6.24452 141,
+	-0.368628 6.24845 142,
+	-0.387371 6.24628 143,
+	-0.405385 6.2415 144,
+	-0.418239 6.23694 145,
+	-0.426415 6.23702 146,
+	-0.447203 6.23367 147,
+	-0.476581 6.23469 148,
+	-0.554908 6.27027 149,
+	-0.653405 6.25922 150,
+	-0.653288 6.24173 151,
+	-0.657285 6.24097 152,
+	-0.674818 6.23907 153,
+	-0.726831 6.23747 154,
+	"/>
+<ZContour name="d17_Z smooth10" closed="false" border="0.000 0.000 0.000" fill="1.000 0.000 1.000" mode="9"
+ points="4.45185 6.72455 1,
+	4.44166 6.73003 2,
+	4.42635 6.73434 3,
+	4.40641 6.7371 4,
+	4.38437 6.74157 5,
+	4.35728 6.74267 6,
+	4.32941 6.74447 7,
+	4.3006 6.74349 8,
+	4.27456 6.74233 9,
+	4.24732 6.73873 10,
+	4.22126 6.73412 11,
+	4.19534 6.72084 12,
+	4.17692 6.70638 13,
+	4.16267 6.69233 14,
+	4.14386 6.67499 15,
+	4.1296 6.66065 16,
+	4.11487 6.64577 17,
+	4.09932 6.63403 18,
+	4.08023 6.62411 19,
+	4.06917 6.61675 20,
+	4.05548 6.61091 21,
+	4.04433 6.60537 22,
+	4.02981 6.60333 23,
+	4.01553 6.6022 24,
+	4.0067 6.60138 25,
+	3.99855 6.60196 26,
+	3.98434 6.60057 27,
+	3.96103 6.598 28,
+	3.94117 6.59473 29,
+	3.90865 6.59005 30,
+	3.87864 6.58415 31,
+	3.84727 6.57887 32,
+	3.81733 6.57233 33,
+	3.78241 6.56737 34,
+	3.74384 6.56326 35,
+	3.69796 6.55783 36,
+	3.65647 6.55452 37,
+	3.61959 6.55359 38,
+	3.58165 6.55626 39,
+	3.54675 6.55875 40,
+	3.50887 6.56157 41,
+	3.46958 6.56426 42,
+	3.4295 6.5673 43,
+	3.3896 6.56887 44,
+	3.35835 6.56883 45,
+	3.33141 6.56655 46,
+	3.31137 6.56168 47,
+	3.30025 6.55492 48,
+	3.28843 6.54507 49,
+	3.27845 6.53531 50,
+	3.26461 6.52587 51,
+	3.25102 6.51869 52,
+	3.23195 6.51188 53,
+	3.21607 6.50589 54,
+	3.19729 6.50444 55,
+	3.17721 6.50541 56,
+	3.15185 6.51121 57,
+	3.11801 6.51749 58,
+	3.08088 6.5259 59,
+	3.04653 6.53526 60,
+	3.01656 6.5451 61,
+	2.98366 6.55458 62,
+	2.95367 6.56331 63,
+	2.92392 6.56702 64,
+	2.88691 6.56523 65,
+	2.85076 6.5598 66,
+	2.81299 6.5532 67,
+	2.77159 6.5486 68,
+	2.72614 6.54442 69,
+	2.6732 6.54011 70,
+	2.61713 6.53578 71,
+	2.55565 6.53202 72,
+	2.48931 6.52752 73,
+	2.41546 6.5245 74,
+	2.33767 6.5203 75,
+	2.25031 6.5235 76,
+	2.15862 6.52802 77,
+	2.06137 6.53012 78,
+	1.96823 6.52857 79,
+	1.87589 6.52692 80,
+	1.77998 6.52525 81,
+	1.68749 6.52237 82,
+	1.59546 6.52174 83,
+	1.51271 6.52348 84,
+	1.43846 6.5317 85,
+	1.37129 6.53582 86,
+	1.31171 6.53743 87,
+	1.2601 6.54062 88,
+	1.21573 6.54641 89,
+	1.17579 6.54806 90,
+	1.13219 6.5469 91,
+	1.09296 6.54217 92,
+	1.06069 6.53582 93,
+	1.02275 6.52999 94,
+	0.983501 6.51882 95,
+	0.941031 6.50765 96,
+	0.895412 6.495 97,
+	0.853327 6.48249 98,
+	0.803986 6.46576 99,
+	0.753212 6.45055 100,
+	0.713137 6.43826 101,
+	0.666416 6.43392 102,
+	0.617309 6.43041 103,
+	0.567136 6.42572 104,
+	0.517469 6.42403 105,
+	0.475268 6.42331 106,
+	0.433774 6.42435 107,
+	0.398833 6.42137 108,
+	0.365869 6.42274 109,
+	0.331422 6.42641 110,
+	0.296113 6.42838 111,
+	0.269334 6.42294 112,
+	0.243821 6.41539 113,
+	0.219187 6.40457 114,
+	0.19258 6.39515 115,
+	0.166246 6.3828 116,
+	0.140618 6.36993 117,
+	0.109502 6.35899 118,
+	0.0806507 6.34519 119,
+	0.0561487 6.33009 120,
+	0.0315816 6.31412 121,
+	0.00639199 6.30151 122,
+	-0.0208678 6.29147 123,
+	-0.0447412 6.2855 124,
+	-0.0665336 6.27777 125,
+	-0.0926023 6.27205 126,
+	-0.118359 6.26764 127,
+	-0.141659 6.26383 128,
+	-0.161479 6.26203 129,
+	-0.183576 6.25971 130,
+	-0.20213 6.26043 131,
+	-0.220258 6.26176 132,
+	-0.235974 6.26253 133,
+	-0.251724 6.26412 134,
+	-0.262673 6.26477 135,
+	-0.271081 6.26436 136,
+	-0.280877 6.26207 137,
+	-0.293672 6.26017 138,
+	-0.308677 6.25834 139,
+	-0.322589 6.25777 140,
+	-0.338038 6.25569 141,
+	-0.353401 6.25246 142,
+	-0.369724 6.24842 143,
+	-0.386665 6.24399 144,
+	-0.413731 6.24446 145,
+	-0.447677 6.24525 146,
+	-0.479142 6.24498 147,
+	-0.508008 6.24423 148,
+	-0.536753 6.24351 149,
+	-0.568897 6.2431 150,
+	-0.599756 6.24316 151,
+	-0.629798 6.2432 152,
+	-0.657761 6.24358 153,
+	-0.682786 6.24386 154,
+	"/>
+<ZContour name="d17_Z smooth10_analyzed_length" closed="false" border="0.000 0.000 0.000" fill="1.000 0.000 1.000" mode="9"
+ points="4.45185 6.72455 1,
+	4.44166 6.73003 2,
+	4.42635 6.73434 3,
+	4.40641 6.7371 4,
+	4.38437 6.74157 5,
+	4.35728 6.74267 6,
+	4.32941 6.74447 7,
+	4.3006 6.74349 8,
+	4.27456 6.74233 9,
+	4.24732 6.73873 10,
+	4.22126 6.73412 11,
+	4.19534 6.72084 12,
+	4.17692 6.70638 13,
+	4.16267 6.69233 14,
+	4.14386 6.67499 15,
+	4.1296 6.66065 16,
+	4.11487 6.64577 17,
+	4.09932 6.63403 18,
+	4.08023 6.62411 19,
+	4.06917 6.61675 20,
+	4.05548 6.61091 21,
+	4.04433 6.60537 22,
+	4.02981 6.60333 23,
+	4.01553 6.6022 24,
+	4.0067 6.60138 25,
+	3.99855 6.60196 26,
+	3.98434 6.60057 27,
+	3.96103 6.598 28,
+	3.94117 6.59473 29,
+	3.90865 6.59005 30,
+	3.87864 6.58415 31,
+	3.84727 6.57887 32,
+	3.81733 6.57233 33,
+	3.78241 6.56737 34,
+	3.74384 6.56326 35,
+	3.69796 6.55783 36,
+	3.65647 6.55452 37,
+	3.61959 6.55359 38,
+	3.58165 6.55626 39,
+	3.54675 6.55875 40,
+	3.50887 6.56157 41,
+	3.46958 6.56426 42,
+	3.4295 6.5673 43,
+	3.3896 6.56887 44,
+	3.35835 6.56883 45,
+	3.33141 6.56655 46,
+	3.31137 6.56168 47,
+	3.30025 6.55492 48,
+	3.28843 6.54507 49,
+	3.27845 6.53531 50,
+	3.26461 6.52587 51,
+	3.25102 6.51869 52,
+	3.23195 6.51188 53,
+	3.21607 6.50589 54,
+	3.19729 6.50444 55,
+	3.17721 6.50541 56,
+	3.15185 6.51121 57,
+	3.11801 6.51749 58,
+	3.08088 6.5259 59,
+	3.04653 6.53526 60,
+	3.01656 6.5451 61,
+	2.98366 6.55458 62,
+	2.95367 6.56331 63,
+	2.92392 6.56702 64,
+	2.88691 6.56523 65,
+	2.85076 6.5598 66,
+	2.81299 6.5532 67,
+	2.77159 6.5486 68,
+	2.72614 6.54442 69,
+	2.6732 6.54011 70,
+	2.61713 6.53578 71,
+	2.55565 6.53202 72,
+	2.48931 6.52752 73,
+	2.41546 6.5245 74,
+	2.33767 6.5203 75,
+	2.25031 6.5235 76,
+	2.15862 6.52802 77,
+	2.06137 6.53012 78,
+	1.96823 6.52857 79,
+	1.87589 6.52692 80,
+	1.77998 6.52525 81,
+	1.68749 6.52237 82,
+	1.59546 6.52174 83,
+	1.51271 6.52348 84,
+	1.43846 6.5317 85,
+	1.37129 6.53582 86,
+	1.31171 6.53743 87,
+	1.2601 6.54062 88,
+	1.21573 6.54641 89,
+	1.17579 6.54806 90,
+	1.13219 6.5469 91,
+	1.09296 6.54217 92,
+	1.06069 6.53582 93,
+	1.02275 6.52999 94,
+	0.983501 6.51882 95,
+	0.941031 6.50765 96,
+	0.895412 6.495 97,
+	0.853327 6.48249 98,
+	0.803986 6.46576 99,
+	0.753212 6.45055 100,
+	0.713137 6.43826 101,
+	0.666416 6.43392 102,
+	0.617309 6.43041 103,
+	0.567136 6.42572 104,
+	0.517469 6.42403 105,
+	0.475268 6.42331 106,
+	0.433774 6.42435 107,
+	0.398833 6.42137 108,
+	0.365869 6.42274 109,
+	0.331422 6.42641 110,
+	0.296113 6.42838 111,
+	0.269334 6.42294 112,
+	0.243821 6.41539 113,
+	0.219187 6.40457 114,
+	0.19258 6.39515 115,
+	0.166246 6.3828 116,
+	0.140618 6.36993 117,
+	0.109502 6.35899 118,
+	0.0806507 6.34519 119,
+	0.0561487 6.33009 120,
+	0.0315816 6.31412 121,
+	0.00639199 6.30151 122,
+	-0.0208678 6.29147 123,
+	-0.0447412 6.2855 124,
+	-0.0665336 6.27777 125,
+	-0.0926023 6.27205 126,
+	-0.118359 6.26764 127,
+	-0.141659 6.26383 128,
+	-0.161479 6.26203 129,
+	-0.183576 6.25971 130,
+	-0.20213 6.26043 131,
+	-0.220258 6.26176 132,
+	-0.235974 6.26253 133,
+	-0.251724 6.26412 134,
+	-0.262673 6.26477 135,
+	-0.271081 6.26436 136,
+	-0.280877 6.26207 137,
+	-0.293672 6.26017 138,
+	-0.308677 6.25834 139,
+	-0.322589 6.25777 140,
+	-0.338038 6.25569 141,
+	-0.353401 6.25246 142,
+	-0.369724 6.24842 143,
+	-0.386665 6.24399 144,
+	-0.413731 6.24446 145,
+	-0.447677 6.24525 146,
+	-0.479142 6.24498 147,
+	-0.508008 6.24423 148,
+	-0.536753 6.24351 149,
+	-0.568897 6.2431 150,
+	-0.599756 6.24316 151,
+	-0.629798 6.2432 152,
+	-0.657761 6.24358 153,
+	-0.682786 6.24386 154,
+	"/>
+</Series>

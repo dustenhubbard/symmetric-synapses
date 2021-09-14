@@ -1,0 +1,7 @@
+Z-Trace,Note,Start,End,Length,
+d004_cl01_asyn_zlen,,18,23,0.256333,
+d004_cl02_syn_zlen,,23,93,3.94722,
+d004_cl03_asyn_zlen,,93,100,0.317447,
+d004_Z,,1,111,6.53838,
+d004_Z smooth10,,1,111,5.82022,
+d004_Z smooth10_analyzed _length,,5,105,5.35612,
